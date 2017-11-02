@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>Expediente_0000700001103</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Sucesos de la Masacre de Tlatelolco</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se informó al particular que podría acceder a la información solicitada en las instalaciones del AGN</p><span class='grey'>Autoridad:</span><p>SEDENA</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_guerra_sucia/Expediente_0000700001103.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>Expediente_0000400293714</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Solicito documentación que contenga antecedentes, hechos y posibles soluciones ocurridos durante el período que contemplo la llamada Matanza de Tlatelolco del 2 de octubre de 1968.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se informó al particular que debería dirigir su solicitud al Archivo General de la Nación</p><span class='grey'>Autoridad:</span><p>SSP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_guerra_sucia/Expediente_0000400293714.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>Expediente_0001700090413</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Solicito acceso al archivo  15S MOVIMIENTOS SOCIALES Y POLÍTICOS DEL PASADO en versión pública, de la FISCALÍA ESPECIAL PARA MOVIMIENTOS SOCIALES Y POLÍTICOS DEL PASADO</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se informa que no fue posible identificar la información en los archivos.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_guerra_sucia/Expediente_0001700090413.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0000700001503</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Información relacionada con los hechos del  2 de octubre de 1968</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se comentó al particular que se adjuntaba un documento con la respuesta pero éste no se adjuntó</p><span class='grey'>Autoridad:</span><p>SEDENA</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_guerra_sucia/0000700001503.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_3('1')">Primero</a> <strong>Página 1/12</strong><a onclick="Pagina_3('2')"> Siguiente</a> <a onclick="Pagina_3('12')"> Último</a></div></div>
+</body>
+</html>

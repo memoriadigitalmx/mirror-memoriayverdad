@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>0413100015415</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Si La PF lleva a cabo una investigación interna en el caso del abatimiento de personas civiles en I1592o el 6 de enero pasado. Avances de esta investigación si es que existe. Elementos de la PF involucrados en la investigación si es que esta existe. Gracias</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>No se localizó documentación alguna. Se declara la inexistencia de la información solicitada</p><span class='grey'>Autoridad:</span><p>PFP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_apatzingan/0413100015415.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>Expediente_0413100038115</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Documentación, reportes, alertas y partes informativos elaborados y relacionados con las actividades que realizó el personal de la Policía Federal en el municipio de Apatzingán durante los días 4,5, 6 y 7 de enero de 2015, y muy concretamente con los sucesos que se registraron antes, durante y luego del desalojo de la alcaldía de ese ayuntamiento en las fechas señaladas.  Hechos en los cuales se reportó el abatimiento de nueve civiles, y que están relacionados con hechos que la propia Comisión N</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Los documentos que se requieren forman parte de un procedimiento no concluido, relativo a queja por violaciones de Derechos Humanos. La información se encuentra RESERVADA, por un periodo de 12 años, bajo el rubro temático de "Derechos humanos". </p><span class='grey'>Autoridad:</span><p>PFP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_apatzingan/Expediente_0413100038115.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>Expediente_0413100039415</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Reporte generado por los policías federales que participaron en hechos violentos en el municipio de Apatzingán, Michoacán, los días 5 y 6 de enero de 2015.  Se trató de un evento donde resultaron muertos entre 8 y 16 personas (no se conoce el número exacto hasta ahora). Al parecer fue un desalojo de manifestantes del Palacio Municipal.  Por reporte me refiero a los informes o relatos que hayan rendido los elementos que participaron en tal operativo.  Este documento puede ser (aunque no únicament</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Los documentos que se requieren forman parte de un procedimiento no concluido, relativo a queja por violaciones de Derechos Humanos. La información se encuentra RESERVADA, por un periodo de 12 años, bajo el rubro temático de "Derechos humanos". </p><span class='grey'>Autoridad:</span><p>PFP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_apatzingan/Expediente_0413100039415.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_3('1')">Primero</a> <strong>Página 1/1</strong><a onclick="Pagina_3('1')"> Último</a></div></div>
+</body>
+</html>

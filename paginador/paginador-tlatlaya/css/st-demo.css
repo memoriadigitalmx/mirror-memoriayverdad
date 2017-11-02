@@ -1,0 +1,102 @@
+body {font-family: 'Raleway', sans-serif;}
+h5 {font-family: 'Montserrat', sans-serif; font-size: 11px; color: #3E8DB4; letter-spacing: 2px; padding-bottom:5px; line-height: 1.5;}
+.sidenav {font-family: 'Montserrat', sans-serif; list-style-type: none; margin-left:-40px; font-size:10px; }
+.sidenav li {border-top: 1px dotted #EEEEEE; padding: 7px 0;}
+.sidenav li a {text-decoration:none; -webkit-transition-duration: 0.6s; /* Safari */ transition-duration: 0.6s;}
+.sidenav li a:hover {text-decoration:none; color:#3E8DB4;}
+hr {border-top: 4px solid #eee;}
+p {font-weight: 500; font-size:13px; line-height:1.7; color:#212121;}
+.cabeza {font-family: 'Montserrat', sans-serif; font-size:20px; line-height:1; margin-top:40px; color:#595A5F;}
+.cabezalg {font-size:40px;}
+.result {color: #398CB6; font-size: 16px; padding-top: 10px;}
+.mt-30 {margin-top:30px}
+.mt-40 {margin-top:40px}
+.mt-90 {margin-top:90px}
+.mb-40 {margin-bottom:40px}
+.pb-20 {padding-bottom:20px}
+.tablg {font-family: 'Montserrat', sans-serif; font-size: 16px!important; font-weight:normal!important; color: #595A5F;}
+.tablg span {font-weight:bold; margin-right:8px;}
+.tablg:hover {color: #000;}
+.tabbox {background:#EEEEEE; margin-top:-1px;}
+.header {background:#E9E9E9; height:59px;}	
+.nav {font-weight:700;}
+.numsol {text-align:right; color:#3E8DB4; font-weight:700; font-family: 'Montserrat', sans-serif; font-size:80px; }
+.numeros {text-align:right; color:#3E8DB4; font-weight:700; font-family: 'Montserrat', sans-serif; font-size:30px; line-height: 1; border-right: 2px solid #fff; padding-right: 10px; }
+.numeros span {color:#202020; font-size:15px; font-weight:100}
+.cifras {font-weight:700; margin-right:10px;}
+.st-demo-header { background-color: #666666; color: white; font-size: 24px; padding: 8px 24px;}
+.st-demo-header button {color: black; font-size: 12px;}
+.st-demo-subheader {background-color: #f0f0f0; color: #333; font-size: 16px; height: 65px; margin-top: 50px; padding: 8px 24px;}
+.st-demo-subheader:first-child {margin-top: 0;}
+
+/* 
+Generic Styling, for Desktops/Laptops 
+*/
+table {width: 100%; border-collapse: collapse; font-family: 'Montserrat', sans-serif; font-size:13px }
+td, th {padding: 15px 10px; text-align: left; }
+tr {border-top: 1px solid #DFDFCE;}
+tr:last-child {border-bottom: 1px solid #DFDFCE; }
+/* 
+Max width before this PARTICULAR table gets nasty
+This query will take effect for any screen smaller than 760px
+and also iPads specifically.
+*/
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	/* Force table to not be like tables anymore */
+	table, thead, tbody, th, td, tr {display: block;}
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	thead tr { position: absolute; top: -9999px; left: -9999px;}
+	tr {border-top: 1px solid #DFDFCE; }
+	td {border: none;position: relative;}
+	
+	td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+	
+}
+
+.grey {color:#BABABA; padding-right:10px; width:90px; display:inline-block; float:left}
+table a {color:#17729F; text-decoration:none; -webkit-transition-duration: 0.6s; /* Safari */ transition-duration: 0.6s; white-space: nowrap}
+table a:hover {text-decoration:none;}
+table a i {margin-right: 10px;}
+.icns {color: #1773A0; font-size: 22px;padding-right: 10px; vertical-align: top;}
+.txtflex {display:flex}
+.tableline p {line-height: 1; margin-bottom:10px;}
+.txtable {font-size: 12px; line-height: 1.4; color: #000; margin-bottom: 5px}
+.gris {font-size:12px; color:#878787; line-height: 1.4; margin-bottom: 5px}
+.azul {color:#1774A1}
+
+@media screen and (max-width:991px) {
+	.numsol {text-align:left}
+	.numeros {text-align:left; border-right:none;}
+	.cabeza {margin-top:-30px}
+	}
+	
+@media screen and (max-width:760px) {
+	.icns {display: inline-block; float: left;}
+	.txtbox {float: left; display: inline-block; width: 90%;}
+	}	
+
+@media screen and (max-width:645px) {
+	.tablg {font-size: 11px!important; }
+	}		
+
+@media screen and (max-width:501px) {
+	.tablg span {font-size:16px; line-height:1;}
+	}		
+	
+@media screen and (max-width:495px) {
+	.txtbox {width: 70%;}
+	}		
+			

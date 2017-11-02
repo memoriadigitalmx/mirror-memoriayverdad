@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>0001700066415</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Dictámenes periciales respectivos</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>En una resolución anterior, ya se instruyó a la PGR generar versión pública de la documentación requerida,los que se encuentran en proceso de análisis y verificación, por lo tanto cuando se culmine el proceso de eleboración de la versión pública se informará respecto al número total de hojas para que se pongan a su disposición en copia simple o certificada, previo pago de los costos de reproducción. </p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/0001700066415.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700066815</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Diversas preguntas respecto a la colaboración del EAAF, que incluyen:1.- Informe el monto total del presupuesto que ha destinado la institución para el pago de salarios y/o remuneraciones económicas a personal del Equipo Argentino de Antropología Forense (EAAF). Solicito el monto total que se ha erogado en pesos mexicanos. Solicito la información actualizada a la fecha de respuesta de la presente solicitud de información que ingresa por Infomex con fecha 12 de febrero de 2015.
+2.- Informe si el</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Despue?s de haber realizado una bu?squeda exhaustiva en sus archivos, registros y bases de datos con los que cuentan, no localizaron la documentacio?n e informacio?n solicitada </p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/0001700066815.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700103215</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>La investigación realizada por la PGR en relación a los estudiantes desaparecidos y muertos de la Escuela Normal Rural Isidro Burgos en octubre pasado.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Respuesta al solicitante a la notificación de entrega de información con costo</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/0001700103215.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700162415</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Expediente de las investigaciones sobre la desaparición de los 43 ESTUDIANTES Y EL ASESINATO DE OTROS TRES DE LA NORMAL RURAL RAÚL ISIDRO BURGOS DE AYOTZINAPA, EN IGUALA DE LA INDEPENDENCIA GUERRERO, los días 26 y 27 de septiembre de 2014.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se informa que se instruyó generar versión pública de la información solicitada, los documentos se encuentran en proceso de análisis y verificación para cumplir con la resolución RDA 5151/14, una vez culminado el procedimiento de elaboración de la versión pública se informara para que, previo pago por el costo de reproducción se pongan a su disposición.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/0001700162415.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_6('1')">Primero</a> <strong>Página 1/31</strong><a onclick="Pagina_6('2')"> Siguiente</a> <a onclick="Pagina_6('31')"> Último</a></div></div>
+</body>
+</html>

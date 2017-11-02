@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>Expediente_0001700020815</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Solicito el listado y descripción de objetos, ropas, restos, casquillosy todo tipo de prueba pericial encontrados como evidencia  del casoAyotzinapa y si se tiene  se me entregue fotos y copia de las actas conlas constancias. Gracias</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La Subprocuraduri?a Especializada en Investigacio?n de Delincuencia Organizada se indico? que la informacio?n solicitada se encuentra inmersa en una averiguacio?n previa, por lo que tiene el cara?cter de reservada por un periodo de doce an?os</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/Expediente_0001700020815.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>Expediente_0001700026815</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Solicito los reportes y las fotos que entregó el 27 Batallón deInfantería de la SEDENA, con sede en Iguala, sobre las actividades querealizaron la noche del 26 de septiembre de 2014, y todo el día 27.Requiero que se me precise también el número de fotos obtenidas de esanoche y una descripción de cada una.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Los documentos en cuestio?n se encuentran inmersos en averiguacio?n previa y por ende tiene el cara?cter de reservados por un peri?odo de doce an?os</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/Expediente_0001700026815.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700165415</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Desaparición de los 43 estudiantes de Ayotzinapa</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se requiere proporcione mayores elementos que faciliten la bu?squeda de la informacio?n en las diversas Unidades Administrativas que conforman esta Dependencia.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/0001700165415.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0000400339814</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>¿Qué ocurre en Ayotzinapa? ¿Cuáles son los resultados de las investigaciones del caso de Ayotzinapa hasta el 28 deoctubre de 2014?  En caso de que dicha informacion sea de caracterreservada solicito de la manera mas atenta:  - El fundamento legal y/o jurídico por el cual dicha informacion es reservada para el publico y;- ¿Quien determina que la informacion sea reservada y con que derechospuede decidir dicha accion.  quedo pendiente de su respuesta.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se recomienda dirigir su solicitud de información a la Policía Federal</p><span class='grey'>Autoridad:</span><p>SSP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/0000400339814.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_3('1')">Primero</a> <strong>Página 1/6</strong><a onclick="Pagina_3('2')"> Siguiente</a> <a onclick="Pagina_3('6')"> Último</a></div></div>
+</body>
+</html>

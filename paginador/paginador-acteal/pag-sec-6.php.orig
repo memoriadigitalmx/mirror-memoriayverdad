@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>Expediente_0001700021015</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Expedientes y los informes publicos que entrego la PGRsobre la masacre de Acteal</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Los expedientes judiciales fueron consignados con fechas: 26, 27 y 31 de diciembre de 1997; 11, 13, 14 y 26 de enero; 2 y 16 de febrero; 4 y 11 de Marzo; 15 de Mayo; 17 de septiembre y 3 de diciembre, todas en el año 1998. Cada indagatoria fue entregada al Juzgado de Distrito en Turno con sede en el Estado de Chiapas, en original y duplicado, por lo que los mismos no obran en los archivos de esta Institución.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/Expediente_0001700021015.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700045503</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Informe sobre la investigacion de la matanza ocurrida en acteal chiapas</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se informa que a la fecha 122 personas eran inculpadas por los hechos, junto con 16 servidores públicos. Asimismo se relaciona la situación jurídica en los procesos. Sin embargo, no se entregan informes concretos</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/0001700045503.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700098610</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Copia del Libro Blanco sobre Acteal</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se efectúo una búsqueda exhaustiva en los archivos, libros de gobierno, base de datos, así como de la información proporcionada por los agentes del Ministerio Público de la Federación, sin que se localizara antecedente alguno relacionado con la información solicitada .</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/0001700098610.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700099504</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Documento en el que se informe la investigacion y la conclusión de los hechos, así como un anexo de la lista de las personas que resultaron culpables de dicho acto y sus respectivas averiguaciones previas.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La PGR informa nombres y edades de 15 personas condenadas, así como los delitos por los que fueron condenados. Asimismo se referencias tres procesos penales abiertos a la fecha: 201/1997, 203/1991 y 46/1998.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/0001700099504.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_6('1')">Primero</a> <strong>Página 1/2</strong><a onclick="Pagina_6('2')"> Siguiente</a> <a onclick="Pagina_6('2')"> Último</a></div></div>
+</body>
+</html>

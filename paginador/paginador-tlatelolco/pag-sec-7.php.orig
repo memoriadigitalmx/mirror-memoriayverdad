@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>0495000000106</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Se desea saber los motivos del incendio que se suscito en la cineteca nacional durante el mandato de Lopez Portillo, al igual que la cantidad de los materiales perdidos y algunos titulos de ellos. Tambien si algunos de las cintas quemadas en este accidente pertenecian al movimiento estudiantil del 68.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>No es competente para proporcionar la información que usted solicita, por lo que sugerimos se contacte con la Cineteca Nacional</p><span class='grey'>Autoridad:</span><p>AGN</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_tlatelolco/0495000000106.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0495000012604</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>¿Cuáles son las acciones y resultados que se tienen de la búsqueda y análisis de archivos, fuentes bibliográfiicas y periodísticas para contribuir al esclarecimiento de los   hechos del movimiento del 68?</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La Fiscalía Especial para Movimientos Sociales y Políticos del Pasado es el órgano dependiente de la Procuraduría General de la Republica encargado de realizar tareas de investigación a efecto de esclarecer los hechos suscitados entorno del movimiento estudiantil del 68</p><span class='grey'>Autoridad:</span><p>AGN</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_tlatelolco/0495000012604.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0495000021904</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>¿En verdad se volvieron abrir los archivos de la matanza de 1968, y se revisaron para encontrar la verdadera razón del porqué y los involucrados, como prometió el Presidente Fox al inicio de su gobierno?</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Por acuerdo presidencial publicado el 27 de noviembre del 2001, fueron transferidos al Archivo General de la Nación los archivos de las dependencias del Ejecutivo Federal vinculadas con la investigación de movimientos Políticos y Sociales de las décadas de los 60’s y 70’s.</p><span class='grey'>Autoridad:</span><p>AGN</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_tlatelolco/0495000021904.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0495000022004</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>¿En verdad se volvieron abrir los archivos de la matanza de 1968, y se revisaron para encontrar la verdadera razón del porqué y los involucrados, como prometió el Presidente Fox al inicio de su gobierno?</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Por acuerdo presidencial publicado el 27 de noviembre del 2001, fueron transferidos al Archivo General de la Nación los archivos de las dependencias del Ejecutivo Federal vinculadas con la investigación de movimientos Políticos y Sociales de las décadas de los 60’s y 70’s.</p><span class='grey'>Autoridad:</span><p>AGN</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_tlatelolco/0495000022004.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_7('1')">Primero</a> <strong>Página 1/3</strong><a onclick="Pagina_7('2')"> Siguiente</a> <a onclick="Pagina_7('3')"> Último</a></div></div>
+</body>
+</html>

@@ -1,0 +1,441 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+    <script type="text/javascript"></script>
+</head>
+<body>
+<div class="container-fluid header">
+    <!-- Nav tabs -->
+    <div class="container">
+        <ul id="mainTab" class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active" id="tab_1"><a href="#tab1" role="tab" data-toggle="tab">DESCRIPCIÓN GENERAL</a></li>
+            <li role="presentation" id="tab_2"><a href="#tab2" role="tab" data-toggle="tab">CONTEXTO</a></li>
+            <li role="presentation"><a href="#tab3" role="tab" data-toggle="tab">HECHOS</a></li>
+            <li role="presentation"><a href="#tab4" role="tab" data-toggle="tab">VÍCTIMAS</a></li>
+            <li role="presentation"><a href="#tab5" role="tab" data-toggle="tab">ACTORES INVOLUCRADOS</a></li>
+            <li role="presentation"><a href="#tab6" role="tab" data-toggle="tab">ACCESO A LA JUSTICIA</a></li>
+            <li role="presentation"><a href="#tab7" role="tab" data-toggle="tab">OTRA INFORMACIÓN</a></li>
+            <li role="presentation"><a href="#tab8" role="tab" data-toggle="tab">ARCHIVOS DEL CASO</a></li>
+        </ul>
+        <div class="row">
+            <div class="col-md-9">
+                <!-- Tab panes -->
+                <div class="tab-content">
+                    <!-- Descripción General -->
+                    <div role="tabpanel" class="tab-pane active" id="tab1">
+                        <h3 class="mt-40">Descripción General</h3>
+                        <p class="mt-30">
+                            <h2>El Halconazo</h2>
+<h3>Autor: Comité 68 (@comite68)</h3>
+<p align='justify'>El Comité 68 y la Fiscalía Especial para Movimientos Políticos y Sociales del Pasado han aportado ya elementos suficientes que demuestran fehacientemente que las agresiones gubernamentales en 1968 y del 10 de junio de 1971 corresponden puntualmente y de forma precisa a la definición jurídica de genocidio, por lo cual se rechaza categóricamente el intento de reclasificar ese tipo penal.</p>
+<p align='justify'>Tanto en la legislación nacional como en la internacional, se establece que el delito de genocidio es aquel que se comete “…con el propósito de destruir total o parcialmente a un grupo nacional o de carácter racial, étnico o religioso [para lo cual se] perpetrase por cualquier medio, delitos contra la vida de miembros de tales grupos…”.</p>
+<p align='justify'>Como se percibe del texto transcrito, para que se configure el delito de genocidio no se requiere un número determinado de víctimas, ni mucho menos que se especifiquen los medios y los delitos instrumentales con los que se haya atentado contra la vida; sin embargo, se ha estado desarrollando una campaña en diversos medios de comunicación para confundir a la opinión pública con una serie de falsedades.</p>
+<p align='justify'>Faltan a la verdad algunos analistas y los abogados de Echeverría cuando afirman que sólo son tres los grupos protegidos por el tipo penal de genocidio: étnicos, raciales y religiosos, cuando la definición también incluye los grupos nacionales. Para los casos del 68 y del 71, el grupo nacional de referencia es el de los estudiantes que participaban en un movimiento nacional de oposición al régimen.</p>
+<p align='justify'>El reconocimiento de que entre los grupos nacionales protegidos por el tipo penal de genocidio se encuentran los opositores al régimen imperante es manifiesto tanto en México como en el ámbito internacional: tan es así que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resolvió en 2002 que era procedente extraditar a Ricardo Miguel Cavallo, quien se encontraba en México y era requerido por España para enjuiciarlo por los delitos de genocidio y terrorismo en Argentina.</p>
+<p align='justify'>El criterio de la SCJN en ese caso fue que tanto el delito de genocidio como el de terrorismo “conforme a la legislación de los países requerido y requirente (…)  tienen la naturaleza de continuos, porque fueron perpetrados a través de diversas conductas realizadas en distintos momentos, dirigidos en contra de un grupo de ciudadanos y sus familiares que eran considerados opositores al régimen militar imperante durante la época de la dictadura argentina, por lo que en estas condiciones, como correctamente lo determinó el Juez de Distrito, resulta irrelevante determinar con exactitud cuándo tuvo lugar cada una de las conductas configurativas de los delitos de genocidio y terrorismo que se le atribuyen… Por tanto, para los efectos de la presente resolución (…) es suficiente precisar que los hechos ilícitos que se le atribuyen ocurrieron durante la dictadura argentina que tuvo lugar del veinticuatro de marzo de mil novecientos setenta y seis al diez de diciembre de mil novecientos ochenta”.</p>
+<p align='justify'>El juez de distrito a quien la Suprema Corte le dio la razón señaló además que el “grupo de ciudadanos que se oponían al régimen militar argentino, los cuales eran considerados como subversivos”: éste fue uno de los términos con el que el gobierno mexicano también se refería a los miembros del movimiento estudiantil.</p>
+<p align='justify'>Las experiencias de enjuiciamientos de genocidas en otros países (España, Argentina, Chille, entre otros) confirman que los grupos opositores están comprendidos en el concepto de grupos nacionales. Ése es el criterio manifestado también por la Corte Internacional de Justicia al resolver las opiniones consultivas formuladas en relación con el texto de la Convención de 1948 en materia de genocidio.</p>
+<p align='justify'>Los abogados defensores dicen que “no se intentó acabar con todos y cada uno de los estudiantes y ni siquiera con los que participaban en el movimiento” y, con estos pseudoanálisis, se pretende desconocer que la definición señala que la destrucción puede ser parcial y que, además el delito se perpetra independientemente de que tal fin lo logre o no el victimario.</p>
+<p align='justify'>La campaña mediática para desvirtuar el carácter genocida de los hechos del 2 de octubre de 1968 y del 10 de junio de 1971 no sólo deforma el concepto jurídico de genocidio, sino que deforma y descontextualiza los hechos y —sin al menos conocer el contenido del expediente— se afirma que “es evidente” y de “sentido común” que no puede hablarse de genocidio. Para probar el propósito destructivo de las agresiones, de conformidad con las reglas mens rea, establecidas para el efecto de demostrar el dolo (estas reglas emitidas en el Estatuto de Roma, que dio origen a la Corte Penal Internacional) y caracterizarlas como parte de una política genocida del sistema, bastarían los siguientes elementos aportados:</p>
+<p align='justify'>1. La reconstrucción de los hechos. Se ha probado que las acciones de diversas instituciones del Estado antes, durante y después de los operativos del 2 de octubre de 1968 y del 10 de junio de 1971 no tuvieron la intención de disuadir a los manifestantes o dispersarlos, y que no se trató de un descontrol de las fuerzas represivas, sino que hubo planeación, preparación, coordinación y ejecución de actos encaminados a la destrucción de los grupos opositores que allí se encontraban.</p>
+<p align='justify'>La intencionalidad destructiva y no de disuadir o dispersar a los manifestantes se demuestra también porque no hubo proporcionalidad entre los medios empleados y el supuesto fin de sólo controlar a los manifestantes.</p>
+<p align='justify'>Además, con los organigramas de las fuerzas de seguridad del Estado se ha precisado quiénes eran los responsables en las líneas de mando establecidas con toda exactitud en los operativos.</p>
+<p align='justify'>2. La doctrina. Se han aportado una gran cantidad de documentos, algunos de los cuales de altos funcionarios del gobierno y otros de doctrina militar, que acreditan que el régimen estigmatizaba a los estudiantes de oposición, caracterizándolos de “subversivos” y calificándolos como “los enemigos internos”. El libro que contiene la trascripción de los procesos judiciales instrumentados contra los estudiantes del 68, señalándolos explícitamente como “comunistas” o de “pertenecer al Partido Comunista”, muestra con claridad la estigmatización y el clima de linchamiento que el régimen promovió a lo largo de muchos años en contra de la disidencia política, de donde se desprendía la necesidad de “combatirlos” a través de medios que impidieran la reproducción del grupo.</p>
+<p align='justify'>3. Contexto histórico. Se han aportado las pruebas de que las agresiones del 2 de octubre de 1968, del 10 de junio de 1971 y de la guerra sucia son momentos relevantes de un continuo que tiene una nutrida serie de acciones represivas, concebidas, teorizadas y ejecutadas como parte de una política de Estado encaminada a destruir a los grupos opositores: la represión al movimiento navista en San Luís Potosí en 1961, al movimiento ferrocarrilero, a las luchas magisteriales, a las de los médicos, y a más de 20 movimientos de normalistas y de universitarios en diversos estados del país tan sólo en una década, son algunos de los antecedentes más conocidos; de la misma manera, la represión a los estudiantes del 68 y del 71 son el antecedente de la política de desaparecer a los opositores, que fue uno de los rasgos más característicos del echeverrismo durante su guerra sucia.</p>
+<p align='justify'>Los abogados de Luís Echeverría Álvarez y Mario Moya Palencia y otros funcionarios “argumentan” que en 1968 y 1971 lo que hubo fue “enfrentamientos” que devinieron en “homicidios”. De este modo, reiteran su dicho de que quienes perdieron la vida cayeron en lo que se llama “homicidio en riña” u “homicidio tumultuario”, pero no genocidio.</p>
+<p align='justify'>El rechazo tajante del Comité 68 a la apertura de la causa penal del 10 de junio y del 2 de octubre con base en el delito de homicidio o cualquier otro obedece no sólo a que estos delitos ya habrían prescrito desde hace muchos años, sino que obedece fundamentalmente a que de esa manera se minimizan y trivializan los hechos, lo cual es una ofensa para las víctimas, un atentado contra la verdad histórica y la prolongación de la impunidad jurídica.</p>
+<img src='./leyenda.png' width='100%'/>                        </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud" data-toggle="tab" ><span>
+                                                    5                                                </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                5                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre el Caso<br />
+														<span class="cabezalg">
+                                                            El Halconazo                                                        </span>
+                                            </p>
+                                            <p class="result">Existen solicitudes de información relacionadas con:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Accesso a la Justicia<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Actores Involucrados<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Contexto<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre el caso<br />
+                                                <span class="cabezalg">
+                                                    El Halconazo                                                </span>
+                                            </p>
+                                            <p class="result">Los Recursos de Revisión están relacionados con:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+						<p class="text-center">Una misma solicitud de información puede estar relacionada con más de una categoría.</p>
+						<p class="result text-center"><strong><a href="https://drive.google.com/file/d/0B77A_lyelhU_VUJCTm8zNV9YQWM/view" style="color: #3E8DB4" target="_blank">¿Qué es el derecho de acceso a la información?</a></strong></p>
+                    </div>										
+					<!-- CONTEXTO -->
+                    <div role="tabpanel" class="tab-pane" id="tab2">
+                        <h3 class="mt-40">Contexto</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud2" data-toggle="tab" ><span>
+                                            1                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos2" data-toggle="tab"><span>
+                                            0 </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud2">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                1                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Contexto</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Notificación de disponibilidad de información (consulta directa)<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos2">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Contexto</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-halconazo/pag-sec-2.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- HECHOS -->
+                    <div role="tabpanel" class="tab-pane" id="tab3">
+                        <h3 class="mt-40">Hechos</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud3" data-toggle="tab" ><span>
+                                            0                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos3" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud3">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Hechos</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                                <div class="tab-pane fade" id="recursos3">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Hechos</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                         
+                    </div>
+                    <!-- VICTIMAS -->
+                    <div role="tabpanel" class="tab-pane" id="tab4">
+                        <h3 class="mt-40">Víctimas</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud4" data-toggle="tab" ><span>
+                                            0                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos4" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud4">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg">Víctimas</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                                <div class="tab-pane fade" id="recursos4">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Víctimas</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <div style="width: 20%">
+                                                     </div>
+                    </div>
+                    <!-- ACTORES INVOLUCRADOS -->
+                    <div role="tabpanel" class="tab-pane" id="tab5">
+                        <h3 class="mt-40">Actores Involucrados</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud5" data-toggle="tab" ><span>
+                                            1                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos5" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud5">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                1                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Actores Involucrados</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Notificación de disponibilidad de información (consulta directa)<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos5">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Actores Involucrados</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-halconazo/pag-sec-5.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- ACCESO A LA JUSTICIA -->
+                    <div role="tabpanel" class="tab-pane" id="tab6">
+                        <h3 class="mt-40">Acceso a la Justicia</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud6" data-toggle="tab" ><span>
+                                            4                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos6" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud6">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                4                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Acceso a la justicia</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Entrega de información en medio electrónico<br /><span class='cifras'>1</span>La respuesta no corresponde a la información requerida<br /><span class='cifras'>1</span>Notificación de disponibilidad de información (consulta directa)<br /><span class='cifras'>1</span>Notificación de pago / envío<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos6">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Acceso a la justicia</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-halconazo/pag-sec-6.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- OTRA INFORMACION -->
+                    <div role="tabpanel" class="tab-pane" id="tab7">
+                        <h3 class="mt-40">Otra Información</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud7" data-toggle="tab" ><span>
+                                            0                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos7" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud7">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Otra Información</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                                <div class="tab-pane fade" id="recursos7">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Otra Informacion</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                                             </div>
+                    <!-- ARCHIVOS DEL CASO -->
+                    <div role="tabpanel" class="tab-pane" id="tab8">
+                        <h3 class="mt-40">Archivos del caso</h3>
+                        <p class="mt-30">El archivo completo del caso puede consultarse en la seccion Archivo</p>
+                        <div class="col-md-12 mt-30 mb-40">
+                            <table>
+                                <tbody>
+                                <tr><td class='icns'><i class='fa fa-download' aria-hidden='true'></i></td><td class='txtbox'><p class='txtable'>Base de datos con solicitudes de información y recursos de revisión del caso El Halconazo</p><p class='gris'>Base de datos <span class='azul'>Solicitudes_de_informacion_y_RDA_El_Halconazo</span></p><p class='gris'>Publicado por:<strong> Memoria y Verdad</strong> |  Fecha: 2016-09-24</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_halconazo/Solicitudes_de_informacion_y_RDA_El_Halconazo.xlsx'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td class='icns'><i class='fa fa-download' aria-hidden='true'></i></td><td class='txtbox'><p class='txtable'>Recurso de apelación no. 1/2004 de la SCJN.
+</p><p class='gris'>Sentencia/resolución/recomendación <span class='azul'>Apelacion_1_2004</span></p><p class='gris'>Publicado por:<strong> SCJN</strong> |  Fecha: 2004-01-01</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_halconazo/Apelacion_1_2004.pdf'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>                                </tbody>
+                            </table>
+                            <img src='./leyenda.png' width='100%'/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mt-90">
+                <h5>VIOLACIONES A DERECHOS HUMANOS RELACIONADOS AL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href='http://www.memoriayverdad.org.mx/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/ejecuciones-arbitrarias.html' class='#' target='_blank'>Ejecuciones arbitrarias, sumarias o extrajudiciales</a> </li><li><a href='http://www.memoriayverdad.org.mx/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/tortura.html' class='#' target='_blank'>Tortura</a> </li>                </ul>
+                <hr />
+                <h5>ARCHIVOS DEL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href='http://www.memoriayverdad.org.mx/index.php/proximamente'class='#' target='_blank'>AUDIOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-bases-halconazo'class='#' target='_blank'>BASE DE DATOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-documentos-el-halconazo'class='#' target='_blank'>DOCUMENTOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-fotograf&iacute;a-halconazo'class='#' target='_blank'>FOTOGRAFÍAS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/proximamente'class='#' target='_blank'>VIDEOS</a></li>                </ul>
+                <hr />
+                <h5>SITIOS RELACIONADOS AL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href="" class="#">--PRÓXIMAMENTE</a> </li>
+                    <li><a href="" class="#">--PRÓXIMAMENTE</a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="js/jquery-1.12.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.scrolling-tabs.js"></script>
+<script src="js/st-demo.js"></script>
+<script src="js/tab.js"></script>
+
+<script>
+    $( document ).ready(function() {
+        $('.nav-tabs').scrollingTabs('destroy');
+        $('#mainTab').scrollingTabs();
+    });
+</script>
+
+
+
+</body>
+</html>

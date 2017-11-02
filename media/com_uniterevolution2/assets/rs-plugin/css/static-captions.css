@@ -1,0 +1,32 @@
+.tp-caption a {
+color:#FFF;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+text-align:right;
+  font-size:22px;
+  font-weight: bold;
+  line-height: 130%
+    font-family: Montserrat
+}
+
+.tp-caption a:hover {
+color:#ccc;
+text-align:right;
+}
+.tp-caption a {
+color:#fff;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+text-align:right;
+}
+
+.tp-caption a:hover {
+color:#ccc;
+text-align:right;
+}

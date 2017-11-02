@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>0413100032613</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Información que contenga número de servidores Públicos Sancionados con el hallazgo de 47 fosas clandestinas con 193 cadáveres encontrados en el Estado de Tamaulipas, en las cercanías del municipio de San Fernando, desde inicio de abril de 2011, así mismo se ruega a esa autoridad, Especificar el número de Policías Federal destacanmentados en las Carreteras del Estado, particularmente en la carretera de esa entidad relacionada con el mismo hallazgo refras del Estado, particularmente en la carreter</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Respecto del número de servidores públcios sancionado a partir del hallazago de las 47 fosas clandestinas , la información es INEXISTENTE. Respecto del número de policías federales destacamentados en las carreteras del Estado, se considera información RESERVADA. Proporcionar la información podría ser suficiente para facilitar un plan de atentado en el que se deje en desventaja el actuar policial  y pondría en riesgo la vida de los miembros.</p><span class='grey'>Autoridad:</span><p>PFP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_san_fernando_11/0413100032613.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0413100055112</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>1. Número de migrantes centroamericanos o de otra región,  que han sido secuestrados en Mexico por diferentes agrupaciones criminales u otros particulares, en el periodo 2006-2011, agradeciéndole que sea separada por año, nacionalidad de los secuestrados, presuntos responsables, estado donde se presentó el ilícito, si se inicio alguna averiguación previa o investigación y como o por quien fueron rescatados de su secuestro los migrantes.
+
+2. Numero de migrantes que se presume han sido asesinado</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La Policía Federal declara incompentencia e inexistencias respecto a la información solicitada. Sin embargo, señala que entre 2008 y 2012 detuvo 37 extranjeros por probable participación en actividades de crimen organizado.</p><span class='grey'>Autoridad:</span><p>PFP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_san_fernando_11/0413100055112.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0411100017811</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>¿Cuántos cuerpos de los 56 migrantes centroamericanos que fueron asesinados en Tamaulipas y trasladados al semefo del Df ya se entregaron?
+De que nacionalidad eran los que ya se entregaron y conocer la fecha exacta de su lugar de origen, así cómo que familiar los reconoció y como fue el traslado a sus países de origen.
+Cómo van las investigaciones de los homicidios de los 72 migrantes centroamericanos en Tamaulipas en agosto de 2010.
+A cuántos responsables de esos homicidios se han detenido, </strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Desechada por falta de respuesta del ciudadano</p><span class='grey'>Autoridad:</span><p>INM</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_san_fernando_11/0411100017811.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0411100021915</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Solicito el número de oficios expedidos por este Instituto desde el 1 de enero hasta el 31 de diciembre de 2013 a cuerpos de seguridad privados, para la detención de migrantes indocumentados. </strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>No existe información relacionada con el número de oficios  expedidio por este instituto a cuerpos de seguridad privada, para la detención de migrantes indocumentados porque el marco normativo de la materia no contempla tal coperación con cuerpos de seguridad privada.</p><span class='grey'>Autoridad:</span><p>INM</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_san_fernando_11/0411100021915.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_2('1')">Primero</a> <strong>Página 1/2</strong><a onclick="Pagina_2('2')"> Siguiente</a> <a onclick="Pagina_2('2')"> Último</a></div></div>
+</body>
+</html>

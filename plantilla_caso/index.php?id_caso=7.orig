@@ -1,0 +1,452 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+    <script type="text/javascript"></script>
+</head>
+<body>
+<div class="container-fluid header">
+    <!-- Nav tabs -->
+    <div class="container">
+        <ul id="mainTab" class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active" id="tab_1"><a href="#tab1" role="tab" data-toggle="tab">DESCRIPCIÓN GENERAL</a></li>
+            <li role="presentation" id="tab_2"><a href="#tab2" role="tab" data-toggle="tab">CONTEXTO</a></li>
+            <li role="presentation"><a href="#tab3" role="tab" data-toggle="tab">HECHOS</a></li>
+            <li role="presentation"><a href="#tab4" role="tab" data-toggle="tab">VÍCTIMAS</a></li>
+            <li role="presentation"><a href="#tab5" role="tab" data-toggle="tab">ACTORES INVOLUCRADOS</a></li>
+            <li role="presentation"><a href="#tab6" role="tab" data-toggle="tab">ACCESO A LA JUSTICIA</a></li>
+            <li role="presentation"><a href="#tab7" role="tab" data-toggle="tab">OTRA INFORMACIÓN</a></li>
+            <li role="presentation"><a href="#tab8" role="tab" data-toggle="tab">ARCHIVOS DEL CASO</a></li>
+        </ul>
+        <div class="row">
+            <div class="col-md-9">
+                <!-- Tab panes -->
+                <div class="tab-content">
+                    <!-- Descripción General -->
+                    <div role="tabpanel" class="tab-pane active" id="tab1">
+                        <h3 class="mt-40">Descripción General</h3>
+                        <p class="mt-30">
+                            <h2>Atenco</h2>
+<h3>Autor: Norma Jiménez e Italia Méndez, sobrevivientes de tortura sexual en Atenco</h3>
+<p align='justify'>En octubre de 2001, el gobierno de Vicente Fox mediante un decreto expropiatorio intentó despojar de sus tierras de cultivo a campesinos de los municipios mexiquenses de Texcoco, Chimalhuacán y Atenco para la construcción de un nuevo aeropuerto internacional. Los campesinos afectados y sus familias formaron el Frente de Pueblos en Defensa de la Tierra (FPDT) y emprendieron una dura lucha jurídica y social que dio como resultado la abrogación del decreto y la cancelación del proyecto aeroportuario. 1</p>
+<p align='justify'>Este triunfo constituyó un revés contra los megaproyectos de despojo y fue un aliciente para las organizaciones sociales de todo el país. El FPDT no se desarticuló tras recuperar sus tierras, siguió promoviendo la organización con grupos de campesinos, colonos y comerciantes de la región.</p>
+<p align='justify'>Años después, en junio de 2005, el Ejercito Zapatista de Liberación Nacional (EZLN) dio a conocer la “Sexta Declaración de la Selva Lacandona” (SDSL) en la que hacia un llamado a las organizaciones, pueblos, colectivos e individualidades de izquierda ubicados fuera de la escena electoral a organizarse en un movimiento civil, pacifico y anticapitalista. 2</p>
+<p align='justify'>Derivado de este llamado, en enero de 2006 la Comisión Sexta del EZLN, encabezada por el subcomandante insurgente Marcos, emprendió un recorrido por el país. Esta iniciativa se denominó “La otra campaña”, en clara alusión a que iniciaba el año de elecciones constitucionales. En ese contexto, la organización proponía otra forma de hacer política fuera del contexto electoral. Miles de personas se adhirieron a esta iniciativa, incluyendo al FPDT. El 26 de abril de 2006 en Atenco se realizó un acto con la Comisión Sexta donde se reivindico la necesidad de defender la tierra ante los intentos de despojo. 3</p>
+<p align='justify'><strong>El castigo ejemplar</strong></p>
+<p align='justify'>Los hechos</p>
+<p align='justify'>La madrugada del 3 de mayo de 2006, el mercado Belisario Domínguez en Texcoco, Estado de México, fue el escenario de una incursión policiaca para impedir que comerciantes de flores, que miembros del FPDT apoyaban solidariamente, colocaran sus puestos de venta en la vía pública. Se suscitó un enfrentamiento que hizo replegarse a los comerciantes y a los miembros del FPDT a un domicilio particular para resguardarse; mientras tanto, fueron rodeados por cientos de elementos de la Agencia de Seguridad Estatal (ASE) y por la policía municipal.</p>
+<p align='justify'>En respuesta, un grupo de personas simpatizantes del FPDT bloquearon la carretera Texcoco- Lechería a la altura de San Salvador Atenco, para protestar por lo ocurrido en el mercado Belisario Domínguez, exigiendo que se disolviera el acordonamiento del inmueble de Texcoco. En el lugar, ocurrió un enfrentamiento con elementos de la ASE y la policía municipal en el que resultó muerto Javier Cortés Santiago, de 14 años de edad, a causa de un impacto de bala en el pecho.</p>
+<p align='justify'>Esa tarde la policía irrumpió en el inmueble particular en Texcoco donde detuvo a 81 personas, que fueron trasladadas al Centro de Readaptación Social de Santiaguito, Almoloya de Juárez.</p>
+<p align='justify'>Mientras esto ocurría, el FPDT hizo un llamado a La otra campaña, a que sus miembros acudieran a San Salvador Atenco, para que la presencia civil inhibiera la irrupción de los cuerpos policiacos en dicha comunidad. Un número importante de activistas e integrantes de organizaciones sociales acudieron ahí esa misma tarde.</p>
+<p align='justify'>La madrugada del 4 de mayo dio inicio un operativo de gran magnitud en el que participaron alrededor de 2,300 agentes de la Agencia de Seguridad Estatal, bajo el mando de David Pintado Espinosa; 700 agentes del Grupo de Operaciones Especiales y de las fuerzas federales de apoyo de la Policía Federal Preventiva, al mando del Comisionado Alejandro Eduardo Martínez Aduna y del Jefe del Estado Mayor el General de Brigada, Ardelio Vargas Fosado,4 además de un numero indeterminado de policías municipales. </p>
+<p align='justify'>Durante el operativo policial, resultó herido de muerte el joven Alexis Benhumea, por un proyectil disparado por la policía; asimismo, mientras transcurrieron las detenciones, los traslados e ingresos al CERESO de Santiaguito, Almoloya, Estado de México, se registraron graves violaciones a los derechos humanos.</p>
+<p align='justify'>En resumen, 207 personas, 47 mujeres, 9 menores de edad, 5 personas extranjeras fueron detenidas y estas últimas fueron expulsadas del país inmediatamente. Floristas, activistas, defensores de derechos humanos y personas que nada tenían que ver con el conflicto fueron arrestadas.</p>
+<p align='justify'>La brutalidad, los golpes, las amenazas y la tortura fueron generalizadas durante ambos operativos, además de la cárcel con sentencias de por vida y procesos penales repletos de irregularidades. 5</p>
+<p align='justify'>La estrategia de violencia premeditada tenía como fin el castigo ejemplar y la venganza como mecanismo de control social, así como la represión para detener los procesos organizativos e implantar el miedo.</p>
+<p align='justify'><strong>La tortura sexual contra las mujeres:6  pieza fundamental de la estrategia de control social</strong></p>
+<p align='justify'>Las mujeres fuimos blanco de tortura sexual, expresada en amenazas de violación tumultuaria, tocamientos, golpes, pellizcos y mordidas en genitales y glúteos; desnudez obligada; introducción de dedos u objetos extraños en la cavidad vaginal, ano y boca; algunas mujeres fueron obligadas a practicar felaciones en repetidas ocasiones a los agentes policiacos. El uso de un lenguaje discriminante y ofensivo sentenciaba la participación de las mujeres en la protesta social. Veintiún mujeres denunciamos esta tortura.</p>
+<p align='justify'>A pesar de la estigmatización pública a la que nos sometieron las autoridades mexiquenses y federales, acusándonos de usar un “manual insurgente”7 en el que se nos instruyó para inventar y declarar falsamente, insistimos y seguimos los tortuosos procedimientos y diligencias ante la entonces Fiscalía Especial de Delitos de Violencia contra las Mujeres (FEVIM), ahora Fiscalía Especial de Delitos de Violencia contra las Mujeres y Trata de Personas (FEVIMTRA), sin lograr que se concretara la investigación.</p>
+<p align='justify'>Derivado de la escandalosa dilación en las investigaciones en el ámbito nacional, acudimos ante la Comisión Interamericana de Derechos Humanos (CIDH),8 para presentar una petición formal de investigación sobre los hechos ocurridos en Texcoco y Atenco. La CIDH aceptó nuestra petición en y en la actualidad nos encontramos agotando la etapa de fondo.</p>
+<p align='justify'>Tras 10 años de absoluta impunidad, con severas repercusiones psicosociales a cuestas, vemos indispensable visibilizar la estrategia de Estado que se extiende por prácticamente todas las regiones del país, perpetrada por corporaciones policíacas estatales, federales, elementos de la Secretaría de Marina y la Secretaría de la Defensa Nacional9  en contra de las mujeres, sin recibir ni haber recibido sanción alguna.</p>
+<p align='justify'><strong>1.-El Decreto de abrogación está disponible en el Diario Oficial de la Federación de fecha 14/08/2002. Disponible en:  http://dof.gob.mx/nota_detalle.php?codigo=721746&fecha=14/08/2002&print=true [última consulta: 25 de mayo de 2016].</strong></p>
+<p align='justify'><strong>2.-Sexta Declaración de la Selva Lacandona, disponible en: http://enlacezapatista.ezln.org.mx/sdsl-es/ [última consulta: 25 de mayo de 2016].</strong></p>
+<p align='justify'><strong>3.-Audio del paso de la Comisión Sexta por San Salvador Atenco, disponible en: http://enlacezapatista.ezln.org.mx/2006/04/27/sigue-la-gira-en-el-edomex-26-de-abril/ [última consulta 26 de mayo de 2016].</strong></p>
+<p align='justify'><strong>4.-Comisión Civil Internacional de Observación por los Derechos Humanos (CCIODH), 2006, Informe preliminar sobre los hechos en Atenco, México, CCIODH, pp. 33.</strong></p>
+<p align='justify'><strong>5.-La movilización social aunada a la estrategia jurídica derivó en la liberación de todos los presos cuatro años después. Información disponible en: http://www.jornada.unam.mx/2010/07/01/politica/002n1pol [última consulta: 26 de mayo de 2016].</strong></p>
+<p align='justify'><strong>6.-La tortura sexual hacia las mujeres es una forma de tortura basada en la discriminación por razón de género, en la que se violenta el cuerpo y la libertad de las mujeres por medio de agresiones sexuales que pueden incluir violación, introducción de objetos, agresiones físicas en las partes más íntimas y la amenaza de cometer esos actos.</strong></p>
+<p align='justify'><strong>7.-http://www.jornada.unam.mx/2006/06/16/index.php?section=politica&article=018n1pl</strong></p>
+<p align='justify'><strong>8.-La CIDH es un órgano principal y autónomo de la Organización de los Estados Americanos (OEA) encargado de la promoción y protección de los derechos humanos en el continente americano. La información está disponible en su página:  http://www.oas.org/es/cidh/mandato/que.asp [última consulta: 26 de mayo de 2016].</strong></p>
+<p align='justify'><strong>9.-Los casos están documentados en: “Campaña Rompiendo el Silencio: Todas juntas contra la Tortura Sexual”, información disponible en: http://centroprodh.org.mx/rompiendoelsilencio/?p=340 [última consulta: 26 de mayo de 2016].</strong></p>
+<img src='./leyenda.png' width='100%'/>                        </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud" data-toggle="tab" ><span>
+                                                    27                                                </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos" data-toggle="tab"><span>
+                                            2                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                27                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre el Caso<br />
+														<span class="cabezalg">
+                                                            Atenco                                                        </span>
+                                            </p>
+                                            <p class="result">Existen solicitudes de información relacionadas con:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>2<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Accesso a la Justicia<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>11<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Actores Involucrados<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>7<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Contexto<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>9<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Hechos<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Víctimas<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                2                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre el caso<br />
+                                                <span class="cabezalg">
+                                                    Atenco                                                </span>
+                                            </p>
+                                            <p class="result">Los Recursos de Revisión están relacionados con:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>2<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Actores Involucrados<br /></p></div></div>                                </div>
+                            </div>
+                        </div>
+						<p class="text-center">Una misma solicitud de información puede estar relacionada con más de una categoría.</p>
+						<p class="result text-center"><strong><a href="https://drive.google.com/file/d/0B77A_lyelhU_VUJCTm8zNV9YQWM/view" style="color: #3E8DB4" target="_blank">¿Qué es el derecho de acceso a la información?</a></strong></p>
+                    </div>										
+					<!-- CONTEXTO -->
+                    <div role="tabpanel" class="tab-pane" id="tab2">
+                        <h3 class="mt-40">Contexto</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud2" data-toggle="tab" ><span>
+                                            7                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos2" data-toggle="tab"><span>
+                                            0 </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud2">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                7                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Contexto</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>5<br /><span>ASA</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Entrega de información en medio electrónico<br /><span class='cifras'>1</span>Notificación de disponibilidad de información (consulta directa)<br /><span class='cifras'>1</span>Notificación de envío<br /><span class='cifras'>1</span>Requerimiento de información adicional<br /><span class='cifras'>1</span>Sin respuesta<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>2<br /><span>AICM</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos2">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Contexto</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-atenco/pag-sec-2.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- HECHOS -->
+                    <div role="tabpanel" class="tab-pane" id="tab3">
+                        <h3 class="mt-40">Hechos</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud3" data-toggle="tab" ><span>
+                                            9                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos3" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud3">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                9                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Hechos</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>2<br /><span>CISEN</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>Presidencia de la República</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /><span>PFP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Entrega de información en medio electrónico<br /><span class='cifras'>1</span>Inexistencia de la información solicitada<br /><span class='cifras'>1</span>Negativa por ser reservada o confidencial<br /><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>2<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos3">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Hechos</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-atenco/pag-sec-3.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>
+                    </div>
+                    <!-- VICTIMAS -->
+                    <div role="tabpanel" class="tab-pane" id="tab4">
+                        <h3 class="mt-40">Víctimas</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud4" data-toggle="tab" ><span>
+                                            4                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos4" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud4">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                4                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg">Víctimas</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>3<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Entrega de información en medio electrónico<br /><span class='cifras'>2</span>Negativa por ser reservada o confidencial<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>CDI</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos4">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Víctimas</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <div style="width: 20%">
+                            <iframe src='../paginador/paginador-atenco/pag-sec-4.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                        </div>
+                    </div>
+                    <!-- ACTORES INVOLUCRADOS -->
+                    <div role="tabpanel" class="tab-pane" id="tab5">
+                        <h3 class="mt-40">Actores Involucrados</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud5" data-toggle="tab" ><span>
+                                            11                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos5" data-toggle="tab"><span>
+                                            2                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud5">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                11                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Actores Involucrados</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SER</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>8<br /><span>PFP</span></p></div><div class='col-md-8'><p><span class='cifras'>3</span>Entrega de información en medio electrónico<br /><span class='cifras'>3</span>Inexistencia de la información solicitada<br /><span class='cifras'>1</span>Negativa por ser reservada o confidencial<br /><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SFP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Requerimiento de información adicional<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos5">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                2                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Actores Involucrados</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>2<br /><span>PFP</span></p></div><div class='col-md-8'></div></div>                                </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-atenco/pag-sec-5.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- ACCESO A LA JUSTICIA -->
+                    <div role="tabpanel" class="tab-pane" id="tab6">
+                        <h3 class="mt-40">Acceso a la Justicia</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud6" data-toggle="tab" ><span>
+                                            2                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos6" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud6">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                2                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Acceso a la justicia</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Entrega de información en medio electrónico<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SFP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Requerimiento de información adicional<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos6">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Acceso a la justicia</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-atenco/pag-sec-6.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- OTRA INFORMACION -->
+                    <div role="tabpanel" class="tab-pane" id="tab7">
+                        <h3 class="mt-40">Otra Información</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud7" data-toggle="tab" ><span>
+                                            0                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos7" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud7">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Otra Información</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                                <div class="tab-pane fade" id="recursos7">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Otra Informacion</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                                             </div>
+                    <!-- ARCHIVOS DEL CASO -->
+                    <div role="tabpanel" class="tab-pane" id="tab8">
+                        <h3 class="mt-40">Archivos del caso</h3>
+                        <p class="mt-30">El archivo completo del caso puede consultarse en la seccion Archivo</p>
+                        <div class="col-md-12 mt-30 mb-40">
+                            <table>
+                                <tbody>
+                                <tr><td class='icns'><i class='fa fa-download' aria-hidden='true'></i></td><td class='txtbox'><p class='txtable'>Base de datos con solicitudes de información y recursos de revisión del caso Atenco</p><p class='gris'>Base de datos <span class='azul'>Solicitudes_de_informacion_y_RDA_Atenco</span></p><p class='gris'>Publicado por:<strong> Memoria y Verdad</strong> |  Fecha: 2016-02-27</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_atenco/Solicitudes_de_informacion_y_RDA_Atenco.xlsx'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td class='icns'><i class='fa fa-download' aria-hidden='true'></i></td><td class='txtbox'><p class='txtable'>Sentencia de la facultad de investigación por violaciones graves a garantías individuales ejercida por el pleno de la SCJN 2006</p><p class='gris'>Sentencia/resolución/recomendación <span class='azul'>Facultad_de_investigacion_3_2006</span></p><p class='gris'>Publicado por:<strong> SCJN</strong> |  Fecha: 0000-00-00</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_atenco/Facultad_de_investigacion_3_2006.pdf'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>                                </tbody>
+                            </table>
+                            <img src='./leyenda.png' width='100%'/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mt-90">
+                <h5>VIOLACIONES A DERECHOS HUMANOS RELACIONADOS AL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href='http://www.memoriayverdad.org.mx/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/ejecuciones-arbitrarias.html' class='#' target='_blank'>Ejecuciones arbitrarias, sumarias o extrajudiciales</a> </li><li><a href='http://www.memoriayverdad.org.mx/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/tortura.html' class='#' target='_blank'>Tortura</a> </li>                </ul>
+                <hr />
+                <h5>ARCHIVOS DEL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href='http://www.memoriayverdad.org.mx/index.php/proximamente'class='#' target='_blank'>AUDIOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-bases-atenco'class='#' target='_blank'>BASE DE DATOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-documentos-atenco'class='#' target='_blank'>DOCUMENTOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-fotograf&iacute;a-atenco'class='#' target='_blank'>FOTOGRAFÍAS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/proximamente'class='#' target='_blank'>VIDEOS</a></li>                </ul>
+                <hr />
+                <h5>SITIOS RELACIONADOS AL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href="" class="#">--PRÓXIMAMENTE</a> </li>
+                    <li><a href="" class="#">--PRÓXIMAMENTE</a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="js/jquery-1.12.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.scrolling-tabs.js"></script>
+<script src="js/st-demo.js"></script>
+<script src="js/tab.js"></script>
+
+<script>
+    $( document ).ready(function() {
+        $('.nav-tabs').scrollingTabs('destroy');
+        $('#mainTab').scrollingTabs();
+    });
+</script>
+
+
+
+</body>
+</html>

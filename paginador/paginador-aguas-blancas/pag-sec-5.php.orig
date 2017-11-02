@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>Expediente_0410000012210</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Información con respecto al caso Aguas Blancas. En específico todo lo que tiene que ver con el video grabado, editado y filtrado a Ricardo Rocha:
+1. Información que tenga que ver con el entonces delegado de Gobernación en la Costa Grande, GUSTAVO MARTÍNEZ GALEANA y de ARMANDO NIETO AZPITIA, quienes, según testimonios recabados por la comisión de ministros de la Suprema Corte para el caso Aguas Blancas son las  dos personas que GRABARON los hechos.
+2. Todo lo que tenga que ver con la EDICIÓN de</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>EL CISEN no se encuentra facultado para responder a su solicitud referente al caso Aguas Blancas y al video que fue filtrado a Ricardo Rocha, ya que no cuenta con facultades para realizar ese tipo de labores.</p><span class='grey'>Autoridad:</span><p>CISEN</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_aguas_blancas/Expediente_0410000012210.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0210000033410</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Información con respecto al caso Aguas Blancas. En específico todo lo que tiene que ver con el video grabado, editado y filtrado a Ricardo Rocha:
+1. Información que tenga que ver con el entonces delegado de Gobernación en la Costa Grande, GUSTAVO MARTÍNEZ GALEANA y de ARMANDO NIETO AZPITIA, quienes, según testimonios recabados por la comisión de ministros de la Suprema Corte para el caso Aguas Blancas son las  dos personas que GRABARON los hechos.
+2. Todo lo que tenga que ver con la EDICIÓN de</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se sugiere remitir a SECRETARÍA DE GOBERNACIÓN  y al Archivo General de la Nación</p><span class='grey'>Autoridad:</span><p>Presidencia de la República</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_aguas_blancas/0210000033410.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0000400072310</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Información con respecto al caso Aguas Blancas. En específico todo lo que tiene que ver con el video grabado, editado y filtrado a Ricardo Rocha:
+1. Información que tenga que ver con el entonces delegado de Gobernación en la Costa Grande, GUSTAVO MARTÍNEZ GALEANA y de ARMANDO NIETO AZPITIA, quienes, según testimonios recabados por la comisión de ministros de la Suprema Corte para el caso Aguas Blancas son las  dos personas que GRABARON los hechos.
+2. Todo lo que tenga que ver con la EDICIÓN de</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La información requerida relativa al caso de Aguas Blancas es inexistente</p><span class='grey'>Autoridad:</span><p>SSP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_aguas_blancas/0000400072310.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>Expediente_0495000017910</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Información con respecto al caso Aguas Blancas. En específico todo lo que tiene que ver con el video grabado, editado y filtrado a Ricardo Rocha:
+1. Información que tenga que ver con el entonces delegado de Gobernación en la Costa Grande, GUSTAVO MARTÍNEZ GALEANA y de ARMANDO NIETO AZPITIA, quienes, según testimonios recabados por la comisión de ministros de la Suprema Corte para el caso Aguas Blancas son las  dos personas que GRABARON los hechos.
+2. Todo lo que tenga que ver con la EDICIÓN de</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se realizó una búsqueda exhaustiva en un aproximado de  4377 videos correspondientes a diversos fondos documentales y no se encontraron referencias correlacionadas.</p><span class='grey'>Autoridad:</span><p>AGN</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_aguas_blancas/Expediente_0495000017910.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_5('1')">Primero</a> <strong>Página 1/1</strong><a onclick="Pagina_5('1')"> Último</a></div></div>
+</body>
+</html>

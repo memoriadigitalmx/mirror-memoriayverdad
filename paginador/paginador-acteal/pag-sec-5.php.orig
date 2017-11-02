@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>0001700003408</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Deseo saber si hay algún servidor público de esa dependencia (PGR) relacionado con los hechos ocurridos en Acteal el 22 de diciembre de 1997, en caso de que así sea quiero saber quiénes son y bajo qué cargo se les acusa.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>No se encuentra relacionado funcionario público de esta institución en los hechos suscitados el 22 de diciembre de 1997</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/0001700003408.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700003508</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Deseo saber si hay servidores públicos de la PGR invulucrados en los procesos penales relacionados con la matanza de Acteal el 22 de diciembre de 1997, de ser así quiero saber quiénes son y por qué delitos.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>No se encuentra relacionado funcionario público de esta institución en los hechos suscitados el 22 de diciembre de 1997</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/0001700003508.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700038308</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Currículo de los paramilitares de Acteal y ¿cuál fue el dictamen que se presentó para detener a los indígenas de Acteal?</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>No se considera la primera parte de la solicitud sobre el curriculum de los paramilitares. Sobre los dictámenes, se adjuntan los boletines de prensa emitidos por la PGR, en donde no se encuentra la información solicitada.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/0001700038308.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700099504</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Documento en el que se informe la investigacion y la conclusión de los hechos, así como un anexo de la lista de las personas que resultaron culpables de dicho acto y sus respectivas averiguaciones previas.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La PGR informa nombres y edades de 15 personas condenadas, así como los delitos por los que fueron condenados. Asimismo se referencias tres procesos penales abiertos a la fecha: 201/1997, 203/1991 y 46/1998.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/0001700099504.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_5('1')">Primero</a> <strong>Página 1/5</strong><a onclick="Pagina_5('2')"> Siguiente</a> <a onclick="Pagina_5('5')"> Último</a></div></div>
+</body>
+</html>

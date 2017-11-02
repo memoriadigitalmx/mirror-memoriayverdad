@@ -1,0 +1,440 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+    <script type="text/javascript"></script>
+</head>
+<body>
+<div class="container-fluid header">
+    <!-- Nav tabs -->
+    <div class="container">
+        <ul id="mainTab" class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active" id="tab_1"><a href="#tab1" role="tab" data-toggle="tab">DESCRIPCIÓN GENERAL</a></li>
+            <li role="presentation" id="tab_2"><a href="#tab2" role="tab" data-toggle="tab">CONTEXTO</a></li>
+            <li role="presentation"><a href="#tab3" role="tab" data-toggle="tab">HECHOS</a></li>
+            <li role="presentation"><a href="#tab4" role="tab" data-toggle="tab">VÍCTIMAS</a></li>
+            <li role="presentation"><a href="#tab5" role="tab" data-toggle="tab">ACTORES INVOLUCRADOS</a></li>
+            <li role="presentation"><a href="#tab6" role="tab" data-toggle="tab">ACCESO A LA JUSTICIA</a></li>
+            <li role="presentation"><a href="#tab7" role="tab" data-toggle="tab">OTRA INFORMACIÓN</a></li>
+            <li role="presentation"><a href="#tab8" role="tab" data-toggle="tab">ARCHIVOS DEL CASO</a></li>
+        </ul>
+        <div class="row">
+            <div class="col-md-9">
+                <!-- Tab panes -->
+                <div class="tab-content">
+                    <!-- Descripción General -->
+                    <div role="tabpanel" class="tab-pane active" id="tab1">
+                        <h3 class="mt-40">Descripción General</h3>
+                        <p class="mt-30">
+                            <h2>Aguas Blancas</h2>
+<h3>Fuente:'Sin justicia, a 20 años de la masacre de Aguas Blancas', Red Política, 29 de junio de 2015.</h3>
+<p align='justify'>La desaparición de Gilberto Romero Vázquez, integrante de la Organización Campesina de la Sierra Sur (OCSS), en mayo 24 de 1995, ocasionó que sus compañeros de dicho colectivo realizaran movilizaciones para exigirle al entonces gobernador de Guerrero, Rubén Figueroa Alcocer, la aparición con vida del líder.</p>
+<p align='justify'>Los municipios de Atoyac y Zihuatanejo en el estado de Guerrero, serían los puntos de encuentro para manifestarse y exigir, además, el cumplimiento de diversos acuerdos pendientes en otros municipios del estado como ayudas para la producción de alimentos, carreteras, escuelas, centros de salud así como la promoción de la defensa de los bosques y recursos naturales.</p>
+<p align='justify'>El 28 de junio de 1995, los campesinos se dividieron y mientras unos se manifestaron en Zihuatanejo, otros se encontraban en Coyuca de Benítez, específicamente en el Vado de Aguas Blancas.</p>
+<p align='justify'>De acuerdo a al descripción sumaria de la Comisión Nacional de los Derechos Humanos (CNDH) sobre los acontecimientos en Aguas Blancas, 'elementos de la Policía Motorizada del Estado, al mando del mayor Manuel Moreno González, con la intervención del Primer Subprocurador General de Justicia y del Director General de Gobernación del Estado, instalaron un puesto de revisión (retén), a tres kilómetros del poblado de Aguas Blancas, del mismo Municipio de Coyuca de Benítez y, aproximadamente a las 10:30 horas, cuando revisaban al primero de los dos vehículos, el camión torton de color rojo, que se 10 dirigía al Municipio de Atoyac de Álvarez, se aproximó la segunda unidad, es decir, la camioneta de color azul, a la que los elementos policíacos le solicitaron que detuviera su marcha para realizar la revisión correspondiente. En dicho lugar y todavía con el vehículo en movimiento, descendieron dos personas, una de ellas visiblemente armada con machete, que agredió al Comandante de la Policía Motorizada Lorenzo Roque Cortez. Igualmente resultó lesionado Dustano Vargas Hernández, elemento de esa misma corporación. En ese momento, se suscitaron diversos disparos de arma de fuego, resultando originalmente catorce campesinos muertos y 24 lesionados, en el lugar de los hechos'.</p>
+<p align='justify'>Según la versión del gobierno del Estado de Guerrero, la agresión la iniciaron dos campesinos que bajaron de las camionetas con sus machetes para después, ser agredidos por otros que dispararon desde las camionetas en las que viajaban.</p>
+<p align='justify'>Mientras que la versión de los campesinos es que dos de sus integrantes agredieron a los comandantes lo que ocasionó que los miembros de la Policía Motorizada dispararan indiscriminadamente en contra de ellos. Aseguran que quienes no resultaban heridos los tiraban al piso con la cabeza viendo al suelo mientras que a quienes resultaron con heridas les daban 'el tiro de gracia'. Los campesinos aseguran que se trató de una emboscada.</p>
+<p align='justify'>Sin embargo, los habitantes y testigos aseguran que existe un video en el que se observa que trabajdores del campo fueron baleados sin poder repeler la agresión.</p>
+<p align='justify'>El ataque de los uniformados dejó 17 campesinos asesinados.</p>
+<p align='justify'>Desde el 28 de junio de 1995, habitantes de las comunidades cercanas a la matanza se organizan para realizar cada año una marcha para clamar justicia por la matanza de 17 campesinos a manos de elementos de la Policía Motorizada. </p>
+<p align='justify'>Los manifestantes, no solo exigen justicia por sus compañeros asesinados esa fecha, si no por otras desapariciones de dirigentes de organizaciones sociales que han sido asesinados a lo largo de dos décadas.</p>
+<p align='justify'>En 1996, la Suprema Corte de Justicia de la Nación (SCJN) determinó que el 28 de junio de 1995 se cometieron violaciones a los derechos humanos y exigió castigar a los culpables, señalando al ex gobernador Figueroa Alcocer; a su secretario de Gobierno, Rubén Robles Catalán, y a Antonio Alcocer Salazar, ex procurador de Justicia.</p>
+<p align='justify'>Por su parte, en 1998, la Corte Interamericana de Derechos Humanos (CIDH) demandó ejercer acciones en contra de quien resultara culpable de los hechos.</p>
+<p align='justify'>Las movilizaciones y acciones para demandar justicia siguen a dos décadas de los acontecimientos. Habitantes de la localidad aseguran que seguirán con las demandas.</p>
+<p align='justify'>Los manifestantes, no solo exigen justicia por sus compañeros asesinados esa fecha, si no por otras desapariciones de dirigentes de organizaciones sociales que han sido asesinados a lo largo de dos décadas.</p>
+<p align='justify'>En 1996, la Suprema Corte de Justicia de la Nación (SCJN) determinó que el 28 de junio de 1995 se cometieron violaciones a los derechos humanos y exigió castigar a los culpables, señalando al ex gobernador Figueroa Alcocer; a su secretario de Gobierno, Rubén Robles Catalán, y a Antonio Alcocer Salazar, ex procurador de Justicia.</p>
+<p align='justify'>Por su parte, en 1998, la Corte Interamericana de Derechos Humanos (CIDH) demandó ejercer acciones en contra de quien resultara culpable de los hechos.</p>
+<p align='justify'>Las movilizaciones y acciones para demandar justicia siguen a dos décadas de los acontecimientos. Habitantes de la localidad aseguran que seguirán con las demandas.</p>
+<img src='./leyenda.png' width='100%'/>                        </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud" data-toggle="tab" ><span>
+                                                    11                                                </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos" data-toggle="tab"><span>
+                                            3                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                11                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre el Caso<br />
+														<span class="cabezalg">
+                                                            Aguas Blancas                                                        </span>
+                                            </p>
+                                            <p class="result">Existen solicitudes de información relacionadas con:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>5<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Accesso a la Justicia<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Actores Involucrados<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Contexto<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Hechos<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                3                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre el caso<br />
+                                                <span class="cabezalg">
+                                                    Aguas Blancas                                                </span>
+                                            </p>
+                                            <p class="result">Los Recursos de Revisión están relacionados con:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>2<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Actores Involucrados<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Accesso a la Justicia<br /></p></div></div>                                </div>
+                            </div>
+                        </div>
+						<p class="text-center">Una misma solicitud de información puede estar relacionada con más de una categoría.</p>
+						<p class="result text-center"><strong><a href="https://drive.google.com/file/d/0B77A_lyelhU_VUJCTm8zNV9YQWM/view" style="color: #3E8DB4" target="_blank">¿Qué es el derecho de acceso a la información?</a></strong></p>
+                    </div>										
+					<!-- CONTEXTO -->
+                    <div role="tabpanel" class="tab-pane" id="tab2">
+                        <h3 class="mt-40">Contexto</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud2" data-toggle="tab" ><span>
+                                            1                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos2" data-toggle="tab"><span>
+                                            0 </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud2">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                1                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Contexto</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SEDENA</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos2">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Contexto</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-aguas-blancas/pag-sec-2.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- HECHOS -->
+                    <div role="tabpanel" class="tab-pane" id="tab3">
+                        <h3 class="mt-40">Hechos</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud3" data-toggle="tab" ><span>
+                                            1                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos3" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud3">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                1                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Hechos</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Sin respuesta<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos3">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Hechos</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-aguas-blancas/pag-sec-3.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>
+                    </div>
+                    <!-- VICTIMAS -->
+                    <div role="tabpanel" class="tab-pane" id="tab4">
+                        <h3 class="mt-40">Víctimas</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud4" data-toggle="tab" ><span>
+                                            0                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos4" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud4">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg">Víctimas</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                                <div class="tab-pane fade" id="recursos4">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Víctimas</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <div style="width: 20%">
+                                                     </div>
+                    </div>
+                    <!-- ACTORES INVOLUCRADOS -->
+                    <div role="tabpanel" class="tab-pane" id="tab5">
+                        <h3 class="mt-40">Actores Involucrados</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud5" data-toggle="tab" ><span>
+                                            4                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos5" data-toggle="tab"><span>
+                                            2                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud5">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                4                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Actores Involucrados</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>CISEN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>Presidencia de la República</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos5">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                2                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Actores Involucrados</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>CISEN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Modificar Respuesta<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>AGN</span></p></div><div class='col-md-8'></div></div>                                </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-aguas-blancas/pag-sec-5.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- ACCESO A LA JUSTICIA -->
+                    <div role="tabpanel" class="tab-pane" id="tab6">
+                        <h3 class="mt-40">Acceso a la Justicia</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud6" data-toggle="tab" ><span>
+                                            5                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos6" data-toggle="tab"><span>
+                                            1                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud6">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                5                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Acceso a la justicia</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>4</span>Sin respuesta<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos6">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                1                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Acceso a la justicia</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Modificar Respuesta<br /></p></div></div>                                </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-aguas-blancas/pag-sec-6.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- OTRA INFORMACION -->
+                    <div role="tabpanel" class="tab-pane" id="tab7">
+                        <h3 class="mt-40">Otra Información</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud7" data-toggle="tab" ><span>
+                                            0                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos7" data-toggle="tab"><span>
+                                            0                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud7">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Otra Información</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                                <div class="tab-pane fade" id="recursos7">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                0                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Otra Informacion</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                                             </div>
+                    <!-- ARCHIVOS DEL CASO -->
+                    <div role="tabpanel" class="tab-pane" id="tab8">
+                        <h3 class="mt-40">Archivos del caso</h3>
+                        <p class="mt-30">El archivo completo del caso puede consultarse en la seccion Archivo</p>
+                        <div class="col-md-12 mt-30 mb-40">
+                            <table>
+                                <tbody>
+                                <tr><td class='icns'><i class='fa fa-download' aria-hidden='true'></i></td><td class='txtbox'><p class='txtable'>Base de datos con solicitudes de información y recursos de revisión del caso Aguas Blancas</p><p class='gris'>Base de datos <span class='azul'>Solicitudes_de_informacion_y_RDA_Aguas_Blancas</span></p><p class='gris'>Publicado por:<strong> Memoria y Verdad</strong> |  Fecha: 2016-09-24</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_aguas_blancas/Solicitudes_de_informacion_y_RDA_Aguas_Blancas.xlsx'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td class='icns'><i class='fa fa-download' aria-hidden='true'></i></td><td class='txtbox'><p class='txtable'>Documento tomado de la página del CISEN, con cronología de hechos</p><p class='gris'>Informe <span class='azul'>Cronologia_hechos_Aguas_Blancas</span></p><p class='gris'>Publicado por:<strong> CISEN</strong> |  Fecha: 0000-00-00</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_aguas_blancas/Cronologia_hechos_Aguas_Blancas.pdf'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td class='icns'><i class='fa fa-download' aria-hidden='true'></i></td><td class='txtbox'><p class='txtable'>Sentencia de la facultad de investigación por violaciones graves a garantías individuales ejercida por el pleno de la SCJN en 1996.</p><p class='gris'>Sentencia/resolución/recomendación <span class='azul'>Sentencia_facultad_de_investigacion_Presidencia</span></p><p class='gris'>Publicado por:<strong> SCJN</strong> |  Fecha: 0000-00-00</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_aguas_blancas/Sentencia_facultad_de_investigacion_Presidencia.pdf'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td class='icns'><i class='fa fa-download' aria-hidden='true'></i></td><td class='txtbox'><p class='txtable'>Recomendación de la CNDH por los hechos</p><p class='gris'>Sentencia/resolución/recomendación <span class='azul'>Recomendacion_104-95</span></p><p class='gris'>Publicado por:<strong> CNDH</strong> |  Fecha: 1995-08-14</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_aguas_blancas/Recomendacion_104-95.pdf'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>                                </tbody>
+                            </table>
+                            <img src='./leyenda.png' width='100%'/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mt-90">
+                <h5>VIOLACIONES A DERECHOS HUMANOS RELACIONADOS AL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href='http://www.memoriayverdad.org.mx/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/ejecuciones-arbitrarias.html' class='#' target='_blank'>Ejecuciones arbitrarias, sumarias o extrajudiciales</a> </li>                </ul>
+                <hr />
+                <h5>ARCHIVOS DEL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href='http://www.memoriayverdad.org.mx/index.php/proximamente'class='#' target='_blank'>AUDIOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-bases-aguas'class='#' target='_blank'>BASE DE DATOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-documentos-aguas-blancas'class='#' target='_blank'>DOCUMENTOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-fotograf&iacute;a-aguas-blancas'class='#' target='_blank'>FOTOGRAFÍAS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/proximamente'class='#' target='_blank'>VIDEOS</a></li>                </ul>
+                <hr />
+                <h5>SITIOS RELACIONADOS AL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href="" class="#">--PRÓXIMAMENTE</a> </li>
+                    <li><a href="" class="#">--PRÓXIMAMENTE</a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="js/jquery-1.12.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.scrolling-tabs.js"></script>
+<script src="js/st-demo.js"></script>
+<script src="js/tab.js"></script>
+
+<script>
+    $( document ).ready(function() {
+        $('.nav-tabs').scrollingTabs('destroy');
+        $('#mainTab').scrollingTabs();
+    });
+</script>
+
+
+
+</body>
+</html>

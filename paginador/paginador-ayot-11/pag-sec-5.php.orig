@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>0001300023615</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Documentos, fotografías e informes de cualquier índole que tengan entregados por el Ejército, Marina y la Policía Federal en el Estado de Guerrero, además de los que tengan sobre el caso Ayotzinapa de los años 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013 y 2014.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La dependencia alega la inexistencia de la información solicitada</p><span class='grey'>Autoridad:</span><p>SEMAR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_11/0001300023615.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>Expediente_0000400016215</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Copia digital de la respuesta entregada a la CNDH comoresultado de la Recomendación No. 1 VG/2012, sobre la investigación de violaciones graves a los derechos humanos relacionada con los hechos ocurridos el 12 de diciembre de 2011 en Chilpancingo, Guerrero.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se informa que la respuesta solicitada forma parte integral del expediente correspondiente a la Recomendación citada y se encuentra clasificado como reservado, a partir del 15 de diciembre de 2011, por un plazo de 12 años.</p><span class='grey'>Autoridad:</span><p>SSP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_11/Expediente_0000400016215.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700118315</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Documentos, fotografías e informes de cualquier índole que tengan entregados por el Ejército, Marina y la Policía Federal en el Estado de Guerrero, además de los que tengan sobre el caso Ayotzinapa de los años 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013 y 2014.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se comunica que no es posible entregar documento alguno relacionado con los expedientes de averiguación previa, ya que es información clasificada como reservada. </p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_11/0001700118315.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0002200061812</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>1. DICTAMEN, INVESTIGACIÓN Y EN SU CASO RECOMENDACIÓN DE LA COMISIÓN NACIONAL DE DERECHOS HUMANOS SOBRE EL CASO DE AYOTZINAPA GUERRERO OCURRIDO EL 12 DE DICIEMBRE DE 2011.
+2. INFORMACIÓN CON QUE CUENTA LA SECRETARÍA DE SEGURIDAD PUBLICA FEDERAL SOBRE EL CASO AYOTZINAPA, GUERRERO.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La dependencia relaciona la existencia de la Recomendación No. 1 VG/2012, pero concluye que no cuenta con documentación relacionada con la recomendación o los hechos.</p><span class='grey'>Autoridad:</span><p>SSP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_11/0002200061812.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_5('1')">Primero</a> <strong>Página 1/1</strong><a onclick="Pagina_5('1')"> Último</a></div></div>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>0001700038308</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Currículo de los paramilitares de Acteal y ¿cuál fue el dictamen que se presentó para detener a los indígenas de Acteal?</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>No se considera la primera parte de la solicitud sobre el curriculum de los paramilitares. Sobre los dictámenes, se adjuntan los boletines de prensa emitidos por la PGR, en donde no se encuentra la información solicitada.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/0001700038308.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0410000025509</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Documentos referentes al Grupo Subversivo denominado Ejercito Zapatista de Liberación Nacional (EZLN) aparecen el  índice de expedientes reservados como: DMJ-093-0001, DMJ-094-0001, DMJ-094-
+0002, DMJ-094-0003, DMJ-094-0004, DMJ-094-0005, DMJ-094-0006, DMJ-094-0007, DMJ-094-
+0008, DMJ-094-0009, DMJ-094-0010, DMJ-094-0011, DMJ-094-0012, DMJ-094-0013, DMJ-094-
+0014 y DMJ-094-0015.
+</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Los documentos requeridos no se encuentran en los archivos de la autoridad.</p><span class='grey'>Autoridad:</span><p>CISEN</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/0410000025509.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>Expediente_0000700044013</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Copia de los partes militares de las zonas (o comandancias) de Chiapas que elaboraron los oficiales en turno entre el 15 de diciembre de 1993 y el 30 de enero de 1994.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La Secretaría solicitó al IFAI ampliar la reserva de la información solicitada</p><span class='grey'>Autoridad:</span><p>SEDENA</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/Expediente_0000700044013.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0000700025210</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Copia simple del expediente A/390 que contienen los Partes de las Zonas Militares en Chiapas elaborados entre el 30 de diciembre de 1993 y 15 de enero de 1994</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se reserva al expediente A/390</p><span class='grey'>Autoridad:</span><p>SEDENA</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_acteal/0000700025210.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_2('1')">Primero</a> <strong>Página 1/2</strong><a onclick="Pagina_2('2')"> Siguiente</a> <a onclick="Pagina_2('2')"> Último</a></div></div>
+</body>
+</html>

@@ -1,0 +1,433 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+    <script type="text/javascript"></script>
+</head>
+<body>
+<div class="container-fluid header">
+    <!-- Nav tabs -->
+    <div class="container">
+        <ul id="mainTab" class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active" id="tab_1"><a href="#tab1" role="tab" data-toggle="tab">DESCRIPCIÓN GENERAL</a></li>
+            <li role="presentation" id="tab_2"><a href="#tab2" role="tab" data-toggle="tab">CONTEXTO</a></li>
+            <li role="presentation"><a href="#tab3" role="tab" data-toggle="tab">HECHOS</a></li>
+            <li role="presentation"><a href="#tab4" role="tab" data-toggle="tab">VÍCTIMAS</a></li>
+            <li role="presentation"><a href="#tab5" role="tab" data-toggle="tab">ACTORES INVOLUCRADOS</a></li>
+            <li role="presentation"><a href="#tab6" role="tab" data-toggle="tab">ACCESO A LA JUSTICIA</a></li>
+            <li role="presentation"><a href="#tab7" role="tab" data-toggle="tab">OTRA INFORMACIÓN</a></li>
+            <li role="presentation"><a href="#tab8" role="tab" data-toggle="tab">ARCHIVOS DEL CASO</a></li>
+        </ul>
+        <div class="row">
+            <div class="col-md-9">
+                <!-- Tab panes -->
+                <div class="tab-content">
+                    <!-- Descripción General -->
+                    <div role="tabpanel" class="tab-pane active" id="tab1">
+                        <h3 class="mt-40">Descripción General</h3>
+                        <p class="mt-30">
+                            <h2>Guerra Sucia</h2>
+<h3>Autor: Martha Camacho</h3>
+<p align='justify'>El 19 de agosto de 1977, elementos de la Dirección Federal de Seguridad y Judicial del estado de Sinaloa irrumpieron en el domicilio donde vivía con mi esposo. A él lo acribillaron; a mí me llevaron, junto con la señora que nos rentaba el lugar, a la Novena Zona Militar para seguir con el interrogatorio y la tortura. A pesar de tener ocho meses de embarazo, me golpearon y patearon con saña. Di a luz cuarenta días después, en una casa de seguridad en condiciones infrahumanas; un soldado puso el cañón de su metralleta en la cabeza de mi hijo recién nacido y amenazaba con matarlo porque, según él, sería un guerrillero como su padre. Ninguno de los detenidos, amarrados y vendados, creímos salir con vida de ahí.</p>
+<p align='justify'>Mi nombre es Martha Alicia Camacho Loaiza. Me considero una mujer afortunada. Nací en Culiacán, Sinaloa, el 30 de octubre de 1955. Pertenezco a una familia numerosa. Recibí mi educación básica en un colegio particular de monjas, lo que muestra la orientación católica que mi madre quiso inculcarnos a sus siete hijas; los cinco varones podían optar por una escuela pública. Crecí sin muchas preocupaciones ni conciencia de clase hasta la preparatoria, cuando uno de mis compañeros me llamó “pequeña burguesa”, señalando mis zapatos. Debido a las transformaciones que el movimiento estudiantil impulsó en la Universidad Autónoma de Sinaloa durante la década de los setenta, la preparatoria era un espacio donde los jóvenes analizaban las condiciones político-sociales del país. Pronto me sumé al comité de lucha como simpatizante, para descubrir las situaciones de miseria que vivían las personas del campo y de la ciudad. Poco después me enamoré y me casé con José Manuel Alapizco, el mismo compañero que se había burlado de mis zapatos, el mismo que años después caería a manos de la Dirección Federal de Seguridad.</p>
+<p align='justify'>La Liga Comunista 23 de Septiembre, al igual que otros grupos afines, la formamos personas que optamos por modificar las condiciones políticas del país recurriendo a las armas. El motivo de confrontación contra el Estado ha sido la desigualdad económica; la riqueza concentrada en manos de unos pocos mientras existe un gran número de personas que viven en pobreza extrema. Así, la mayoría de las organizaciones guerrilleras nacen como manifestación del rencor social hacia el régimen establecido; por eso tienen un carácter anticapitalista y antiimperialista. Surgen luego de agotar las vías pacíficas para lograr algún cambio. La misión de estos grupos, nuestros grupos, era acelerar la crisis en un sistema envilecido e insensible, mostrar a la población, por medio de las armas, que la alternativa revolucionaria es la última instancia, alentarla a organizarse y combatir.</p>
+<p align='justify'>Los movimientos guerrilleros en México, como en muchos otros países de África, Asia y América Latina, tienen bases históricas y una función concreta. Surgen y se expanden tras un arduo y cansado trabajo político de concientización y adiestramiento militar. Muchos de los integrantes primero fuimos estudiantes que, al calor de la época en la que vivíamos, comprendimos, veíamos con el enfoque de la lupa marxista-leninista la raíz de los problemas económicos y sociales. Principalmente aprendimos que la sociedad en la que vivimos tiene una estructura clasista, compuesta por explotados y explotadores; por privilegiados y olvidados. </p>
+<p align='justify'>De este modo, creíamos que mediante el trabajo de guerrilla la población civil se desprendería sistemáticamente de las ideas políticas, jurídicas e ideológicas que le incrustaba la estructura del Estado, hasta transformar su conciencia para contribuir directamente en la transformación social. </p>
+<p align='justify'>Sabíamos de antemano que la actividad guerrillera ponía en riesgo nuestra vida. En respuesta a nuestra actividad combatiente, el Estado lanzó un ataque militarizado de aniquilación sistemática en contra de quienes integrábamos  el movimiento. Este ataque implicaba desprestigio, torturas, encarcelamiento, asesinatos y desapariciones forzadas. A algunos los encerró en cárceles clandestinas para torturarlos hasta la muerte; a otros los desapareció dejando a sus familias en la completa incertidumbre, ya que resulta más doloroso no saber si la persona desaparecida vive o no, sin guardar luto ni tener un espacio donde honrarlo o manera de despedirlo.</p>
+<p align='justify'>Me considero afortunada porque fui de las pocas personas que salió con vida y con mi hijo vivo gracias a un monto que mi padre pagó a modo de rescate. Sin embargo, la tortura psicológica continuó mediante amenazas por teléfono, autos que rondaban por la casa o mensajes hostiles hechos con palabras recortadas de periódicos. Quizá la certeza de que mi esposo fue abatido a tiros permitió que no me invadiera el dolor o la ambigüedad desquiciante que provoca la pérdida de identidad de cada miembro de la familia. De hecho, la incertidumbre de si estará vivo o no genera que los integrantes de la familia no puedan determinar su presencia, ausencia o muerte. No fue mi caso.</p>
+<p align='justify'>Años después, luego de experiencias que me enseñaron que el Estado obra con los desaparecidos suprimiendo todo registro y borrando cualquier evidencia que lo comprometiera ante la opinión pública, me vinculé estrechamente con la Unión de Madres con Hijos Desaparecidos de Sinaloa y con organismos de derechos humanos. Soy testigo de las detenciones forzadas que se practicaron en Sinaloa; estuve en el mismo sitio donde estaban sus hijos desaparecidos y he dado testimonio de la barbarie y de los métodos tan sucios de los que el Estado se valió, echando mano del Ejército, contra jóvenes de 15 y 16 años de edad. </p>
+<p align='justify'>Sigo en pie de lucha, con un nudo en la garganta cada que escucho a las madres con hijos desaparecidos concebir fantasías angustiantes sobre los padecimientos que sus hijos posiblemente tienen o tuvieron. Todo esto les origina enfermedades, fatiga, pensamientos de tortura y de muerte o ilusiones de reencuentro. En pocos años quedan muy lastimadas emocionalmente, confundidas y cansadas por toda la energía que pierden en tratar de entender la situación; por los discursos engañosos y las promesas del gobernador o presidente en turno. Los casos de hijos, hermanos o pareja del desaparecido presentan problemas emocionales y de adaptación, depresiones, nerviosismo, ansiedad, insomnio y hasta aislamiento. Muchas de estas personas ya no están con nosotros, murieron con la viva esperanza de abrazar de nuevo a sus hijos.</p>
+<p align='justify'>Mi deuda histórica ha sido servir de testigo de la actividad criminal del Estado hacia una parte de la población civil; registrar las historias de vida de cada una de las madres y su interminable búsqueda: reivindicar la identidad histórica de los desaparecidos; insistir en que los crímenes imprescriptibles de lesa humanidad cometidos por el Estado exigen que los responsables sean llevados a juicio, se les castigue y se respeten los límites que establece el estado de derecho para que no vuelvan a repetirse, y exigir la presentación de los desaparecidos y reparación del daño moral, psicológico y colateral de los familiares.</p>
+<img src='./leyenda.png' width='100%'/>                        </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud" data-toggle="tab" ><span>
+                                                    383                                                </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos" data-toggle="tab"><span>
+                                            40                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                383                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre el Caso<br />
+														<span class="cabezalg">
+                                                            Guerra Sucia                                                        </span>
+                                            </p>
+                                            <p class="result">Existen solicitudes de información relacionadas con:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>145<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Accesso a la Justicia<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>84<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Actores Involucrados<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>98<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Contexto<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>46<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Hechos<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>206<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Otra Información<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>204<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Víctimas<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                40                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre el caso<br />
+                                                <span class="cabezalg">
+                                                    Guerra Sucia                                                </span>
+                                            </p>
+                                            <p class="result">Los Recursos de Revisión están relacionados con:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>10<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Contexto<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Hechos<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>19<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Víctimas<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>7<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Actores Involucrados<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>19<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Accesso a la Justicia<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>17<br /></p></div><div class='col-md-8'><p><span class='cifras'></span>Otra Información<br /></p></div></div>                                </div>
+                            </div>
+                        </div>
+						<p class="text-center">Una misma solicitud de información puede estar relacionada con más de una categoría.</p>
+						<p class="result text-center"><strong><a href="https://drive.google.com/file/d/0B77A_lyelhU_VUJCTm8zNV9YQWM/view" style="color: #3E8DB4" target="_blank">¿Qué es el derecho de acceso a la información?</a></strong></p>
+                    </div>										
+					<!-- CONTEXTO -->
+                    <div role="tabpanel" class="tab-pane" id="tab2">
+                        <h3 class="mt-40">Contexto</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud2" data-toggle="tab" ><span>
+                                            98                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos2" data-toggle="tab"><span>
+                                            10 </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud2">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                98                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Contexto</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>35<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Entrega de información en medio electrónico<br /><span class='cifras'>15</span>Inexistencia de la información solicitada<br /><span class='cifras'>3</span>La información está disponible públicamente<br /><span class='cifras'>1</span>La respuesta no corresponde a la información requerida<br /><span class='cifras'>1</span>La solicitud no corresponde al marco de la Ley<br /><span class='cifras'>3</span>Negativa por ser reservada o confidencial<br /><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>No se entrega alguna información<br /><span class='cifras'>5</span>Notificación de pago / envío<br /><span class='cifras'>3</span>Requerimiento de información adicional<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>3<br /><span>CISEN</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>Notificación de pago / envío<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>5<br /><span>SEDENA</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>Inexistencia de la información solicitada<br /><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>Requerimiento de información adicional<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>Inexistencia de la información solicitada<br /><span class='cifras'>1</span>La solicitud no corresponde al marco de la Ley<br /><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>50<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>5</span>Inexistencia de la información solicitada<br /><span class='cifras'>1</span>La información está disponible públicamente<br /><span class='cifras'>1</span>La respuesta no corresponde a la información requerida<br /><span class='cifras'>28</span>Notificación de disponibilidad de información (consulta directa)<br /><span class='cifras'>15</span>Notificación de pago / envío<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SEP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos2">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                10                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Contexto</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>10<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>En Ponencia<br /></p><p><span class='cifras'>1</span>Revocar Respuesta<br /></p><p><span class='cifras'>1</span>Se Desecha por Extemporáneo<br /></p></div></div>                                </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-guerra-sucia/pag-sec-2.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- HECHOS -->
+                    <div role="tabpanel" class="tab-pane" id="tab3">
+                        <h3 class="mt-40">Hechos</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud3" data-toggle="tab" ><span>
+                                            46                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos3" data-toggle="tab"><span>
+                                            4                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud3">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                46                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Hechos</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>24<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Entrega de información en medio electrónico<br /><span class='cifras'>7</span>Inexistencia de la información solicitada<br /><span class='cifras'>2</span>La información está disponible públicamente<br /><span class='cifras'>1</span>La respuesta no corresponde a la información requerida<br /><span class='cifras'>2</span>Negativa por ser reservada o confidencial<br /><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>No se entrega alguna información<br /><span class='cifras'>5</span>Notificación de pago / envío<br /><span class='cifras'>3</span>Requerimiento de información adicional<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>2<br /><span>CISEN</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /><span>SEDENA</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>La información está disponible públicamente<br /><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>No se entrega alguna información<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>Requerimiento de información adicional<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>12<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /><span class='cifras'>5</span>La información está disponible públicamente<br /><span class='cifras'>5</span>Notificación de disponibilidad de información (consulta directa)<br /><span class='cifras'>1</span>Requerimiento de información adicional<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos3">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                4                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Hechos</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>2<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Revocar Respuesta<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SEDENA</span></p></div><div class='col-md-8'></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Se Desecha por Extemporáneo<br /></p></div></div>                                </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-guerra-sucia/pag-sec-3.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>
+                    </div>
+                    <!-- VICTIMAS -->
+                    <div role="tabpanel" class="tab-pane" id="tab4">
+                        <h3 class="mt-40">Víctimas</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud4" data-toggle="tab" ><span>
+                                            204                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos4" data-toggle="tab"><span>
+                                            19                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud4">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                204                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg">Víctimas</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>44<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Entrega de información en medio electrónico<br /><span class='cifras'>15</span>Inexistencia de la información solicitada<br /><span class='cifras'>1</span>Información parcialmente reservada o confidencial<br /><span class='cifras'>3</span>La información está disponible públicamente<br /><span class='cifras'>1</span>La respuesta no corresponde a la información requerida<br /><span class='cifras'>1</span>La solicitud no corresponde al marco de la Ley<br /><span class='cifras'>7</span>Negativa por ser reservada o confidencial<br /><span class='cifras'>3</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>No se dará trámite a la solicitud<br /><span class='cifras'>2</span>No se entrega alguna información<br /><span class='cifras'>5</span>Notificación de pago / envío<br /><span class='cifras'>4</span>Requerimiento de información adicional<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>5<br /><span>CISEN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /><span class='cifras'>3</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>Notificación de pago / envío<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>6<br /><span>SEDENA</span></p></div><div class='col-md-8'><p><span class='cifras'>6</span>Inexistencia de la información solicitada<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>3<br /><span>SER</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Entrega de información en medio electrónico<br /><span class='cifras'>2</span>Notificación de pago / envío<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>20<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>3</span>Entrega de información en medio electrónico<br /><span class='cifras'>4</span>Inexistencia de la información solicitada<br /><span class='cifras'>2</span>Información parcialmente reservada o confidencial<br /><span class='cifras'>2</span>La información está disponible públicamente<br /><span class='cifras'>1</span>Negativa por ser reservada o confidencial<br /><span class='cifras'>6</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>2</span>Requerimiento de información adicional<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>125<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>4</span>Inexistencia de la información solicitada<br /><span class='cifras'>18</span>La información está disponible públicamente<br /><span class='cifras'>1</span>La respuesta no corresponde a la información requerida<br /><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>No se dará trámite a la solicitud<br /><span class='cifras'>50</span>Notificación de disponibilidad de información (consulta directa)<br /><span class='cifras'>50</span>Notificación de pago / envío<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SEP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos4">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                19                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Víctimas</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>12<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>En Ponencia<br /></p><p><span class='cifras'>1</span>Revocar Respuesta<br /></p><p><span class='cifras'>1</span>Se Tiene Por No Presentado<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SEDENA</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Se Desecha por Extemporáneo<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>2<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Se Desecha por Extemporáneo<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Se Desecha por Improcedente<br /></p></div></div>                                </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <div style="width: 20%">
+                            <iframe src='../paginador/paginador-guerra-sucia/pag-sec-4.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                        </div>
+                    </div>
+                    <!-- ACTORES INVOLUCRADOS -->
+                    <div role="tabpanel" class="tab-pane" id="tab5">
+                        <h3 class="mt-40">Actores Involucrados</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud5" data-toggle="tab" ><span>
+                                            84                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos5" data-toggle="tab"><span>
+                                            7                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud5">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                84                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Actores Involucrados</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>38<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>Entrega de información en medio electrónico<br /><span class='cifras'>10</span>Inexistencia de la información solicitada<br /><span class='cifras'>1</span>Información parcialmente reservada o confidencial<br /><span class='cifras'>1</span>La información está disponible públicamente<br /><span class='cifras'>1</span>La respuesta no corresponde a la información requerida<br /><span class='cifras'>8</span>Negativa por ser reservada o confidencial<br /><span class='cifras'>4</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>No se entrega alguna información<br /><span class='cifras'>5</span>Notificación de pago / envío<br /><span class='cifras'>4</span>Requerimiento de información adicional<br /><span class='cifras'>1</span>Solicitud para cambiar la modalidad de entrega elegida por el solicitante<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>3<br /><span>CISEN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /><span>Presidencia de la República</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>Inexistencia de la información solicitada<br /><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>10<br /><span>SEDENA</span></p></div><div class='col-md-8'><p><span class='cifras'>10</span>Inexistencia de la información solicitada<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>3<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /><span class='cifras'>2</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>26<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /><span class='cifras'>13</span>La información está disponible públicamente<br /><span class='cifras'>11</span>Notificación de disponibilidad de información (consulta directa)<br /><span class='cifras'>1</span>Notificación de pago / envío<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos5">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                7                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Actores Involucrados</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>6<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Revocar Respuesta<br /></p><p><span class='cifras'>1</span>Se Desecha por Extemporáneo<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SEDENA</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Confirmar Respuesta<br /></p></div></div>                                </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-guerra-sucia/pag-sec-5.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- ACCESO A LA JUSTICIA -->
+                    <div role="tabpanel" class="tab-pane" id="tab6">
+                        <h3 class="mt-40">Acceso a la Justicia</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud6" data-toggle="tab" ><span>
+                                            145                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos6" data-toggle="tab"><span>
+                                            19                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud6">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                145                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Acceso a la justicia</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>69<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>5</span>Entrega de información en medio electrónico<br /><span class='cifras'>11</span>Inexistencia de la información solicitada<br /><span class='cifras'>3</span>Información parcialmente reservada o confidencial<br /><span class='cifras'>4</span>La información está disponible públicamente<br /><span class='cifras'>1</span>La respuesta no corresponde a la información requerida<br /><span class='cifras'>22</span>Negativa por ser reservada o confidencial<br /><span class='cifras'>6</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>No se dará trámite a la solicitud<br /><span class='cifras'>3</span>No se entrega alguna información<br /><span class='cifras'>1</span>Notificación de disponibilidad de información (consulta directa)<br /><span class='cifras'>7</span>Notificación de pago / envío<br /><span class='cifras'>4</span>Requerimiento de información adicional<br /><span class='cifras'>1</span>Solicitud para cambiar la modalidad de entrega elegida por el solicitante<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>3<br /><span>CISEN</span></p></div><div class='col-md-8'><p><span class='cifras'>3</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>Presidencia de la República</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /><span>SEDENA</span></p></div><div class='col-md-8'><p><span class='cifras'>4</span>Inexistencia de la información solicitada<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>9<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /><span class='cifras'>1</span>Información parcialmente reservada o confidencial<br /><span class='cifras'>2</span>La información está disponible públicamente<br /><span class='cifras'>1</span>Negativa por ser reservada o confidencial<br /><span class='cifras'>4</span>No es de competencia de la unidad de enlace<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>59<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>4</span>Inexistencia de la información solicitada<br /><span class='cifras'>1</span>La información está disponible públicamente<br /><span class='cifras'>34</span>Notificación de disponibilidad de información (consulta directa)<br /><span class='cifras'>19</span>Notificación de pago / envío<br /><span class='cifras'>1</span>Requerimiento de información adicional<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos6">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                19                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Acceso a la justicia</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>15<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Confirmar Respuesta<br /></p><p><span class='cifras'>2</span>Revocar Respuesta<br /></p><p><span class='cifras'>1</span>Se Tiene Por No Presentado<br /></p><p><span class='cifras'>1</span>Se Desecha por Extemporáneo<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>2<br /><span>SEDENA</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>Confirmar Respuesta<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>SSP</span></p></div><div class='col-md-8'></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>1<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Se Desecha por Improcedente<br /></p></div></div>                                </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-guerra-sucia/pag-sec-6.php' width='1000' height='1500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- OTRA INFORMACION -->
+                    <div role="tabpanel" class="tab-pane" id="tab7">
+                        <h3 class="mt-40">Otra Información</h3>
+                        <p class="mt-30">
+                                                    </p>
+                        <div class="col-md-12">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a class="tablg" href="#solicitud7" data-toggle="tab" ><span>
+                                            206                                        </span> Solicitudes de Información</a></li>
+                                <li><a class="tablg" href="#recursos7" data-toggle="tab"><span>
+                                            17                                        </span> Recursos de Revisión</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active tabbox" id="solicitud7">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                206                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Solicitudes de Información sobre<br />
+                                                <span class="cabezalg"> Otra Información</span>
+                                            </p>
+                                            <p class="result">Las respuestas fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>47<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>7</span>Entrega de información en medio electrónico<br /><span class='cifras'>13</span>Inexistencia de la información solicitada<br /><span class='cifras'>2</span>La información está disponible públicamente<br /><span class='cifras'>1</span>La respuesta no corresponde a la información requerida<br /><span class='cifras'>6</span>Negativa por ser reservada o confidencial<br /><span class='cifras'>3</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>5</span>No se entrega alguna información<br /><span class='cifras'>1</span>Notificación de disponibilidad de información (consulta directa)<br /><span class='cifras'>6</span>Notificación de pago / envío<br /><span class='cifras'>3</span>Requerimiento de información adicional<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>5<br /><span>CISEN</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Inexistencia de la información solicitada<br /><span class='cifras'>3</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>Notificación de pago / envío<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>18<br /><span>SEDENA</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Entrega de información en medio electrónico<br /><span class='cifras'>14</span>Inexistencia de la información solicitada<br /><span class='cifras'>1</span>La información está disponible públicamente<br /><span class='cifras'>1</span>No se entrega alguna información<br /><span class='cifras'>1</span>Requerimiento de información adicional<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /><span>SER</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Entrega de información en medio electrónico<br /><span class='cifras'>3</span>Notificación de pago / envío<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>37<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>13</span>Entrega de información en medio electrónico<br /><span class='cifras'>8</span>Inexistencia de la información solicitada<br /><span class='cifras'>1</span>Información disponible públicamente<br /><span class='cifras'>2</span>Información parcialmente reservada o confidencial<br /><span class='cifras'>1</span>La información está disponible públicamente<br /><span class='cifras'>1</span>La solicitud no corresponde al marco de la Ley<br /><span class='cifras'>8</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>3</span>Requerimiento de información adicional<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>92<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>3</span>Inexistencia de la información solicitada<br /><span class='cifras'>18</span>La información está disponible públicamente<br /><span class='cifras'>1</span>No es de competencia de la unidad de enlace<br /><span class='cifras'>1</span>No se dará trámite a la solicitud<br /><span class='cifras'>31</span>Notificación de disponibilidad de información (consulta directa)<br /><span class='cifras'>37</span>Notificación de pago / envío<br /><span class='cifras'>1</span>Requerimiento de información adicional<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>3<br /><span>SEMAR</span></p></div><div class='col-md-8'><p><span class='cifras'>3</span>Inexistencia de la información solicitada<br /></p></div></div>                                </div>
+                                <div class="tab-pane fade" id="recursos7">
+                                    <div class="col-md-12 tabbox pb-20">
+                                        <div class="col-md-4">
+                                            <p class="numsol">
+                                                17                                            </p>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <p class="cabeza">Recursos de Revisión sobre<br />
+                                                <span class="cabezalg"> Otra Informacion</span>
+                                            </p>
+                                            <p class="result">Los sentidos de las resoluciones fueron:</p>
+                                        </div>
+                                    </div>
+                                    <div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>5<br /><span>PGR</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>Revocar Respuesta<br /></p><p><span class='cifras'>1</span>Se Desecha por Extemporáneo<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>3<br /><span>SEDENA</span></p></div><div class='col-md-8'><p><span class='cifras'>1</span>Se Desecha por Extemporáneo<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>5<br /><span>SSP</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>Confirmar Respuesta<br /></p><p><span class='cifras'>2</span>Se Desecha por Extemporáneo<br /></p></div></div><div class='col-md-12 tabbox pb-20'><div class='col-md-4'><p class='numeros'>4<br /><span>AGN</span></p></div><div class='col-md-8'><p><span class='cifras'>2</span>Se Desecha por Improcedente<br /></p></div></div>                                </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p align="justify"><i>La siguiente información se reproduce en los mismos términos en que obra en el Sistema INFOMEX administrado por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Dicho Sistema es considerado como una fuente de acceso público, por lo que se actualiza lo establecido en el artículo 18, último párrafo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental (LFTAIPG), en virtud de la fecha en la que fue generada.</i></p>
+                        <br>
+                        <!-- Consulta de Solicitudes de información -->
+                        <iframe src='../paginador/paginador-guerra-sucia/pag-sec-7.php' width='1000' height='2500' frameborder='0' style='border:0' allowfullscreen></iframe>                    </div>
+                    <!-- ARCHIVOS DEL CASO -->
+                    <div role="tabpanel" class="tab-pane" id="tab8">
+                        <h3 class="mt-40">Archivos del caso</h3>
+                        <p class="mt-30">El archivo completo del caso puede consultarse en la seccion Archivo</p>
+                        <div class="col-md-12 mt-30 mb-40">
+                            <table>
+                                <tbody>
+                                <tr><td class='icns'><i class='fa fa-download' aria-hidden='true'></i></td><td class='txtbox'><p class='txtable'>Base de datos con solicitudes de información y recursos de revisión del caso Guerra Sucia</p><p class='gris'>Base de datos <span class='azul'>Solicitudes_de_informacion_y_RDA_Guerra_Sucia</span></p><p class='gris'>Publicado por:<strong> Memoria y Verdad</strong> |  Fecha: 2016-09-24</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_guerra_sucia/Solicitudes_de_informacion_y_RDA_Guerra_Sucia.xlsx'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td class='icns'><i class='fa fa-download' aria-hidden='true'></i></td><td class='txtbox'><p class='txtable'>Sentencias de la CIDH sobre el Caso González y otras “Campo Algodonero”</p><p class='gris'>Sentencia/resolución/recomendación <span class='azul'>Sentencia_CIDH_Caso_Radilla</span></p><p class='gris'>Publicado por:<strong> CIDH</strong> |  Fecha: 2002-11-23</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_guerra_sucia/Sentencia_CIDH_Caso_Radilla.pdf'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>                                </tbody>
+                            </table>
+                            <img src='./leyenda.png' width='100%'/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mt-90">
+                <h5>VIOLACIONES A DERECHOS HUMANOS RELACIONADOS AL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href='http://www.memoriayverdad.org.mx/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/desaparicion-forzada.html' class='#' target='_blank'>Desaparición forzada</a> </li><li><a href='http://www.memoriayverdad.org.mx/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/ejecuciones-arbitrarias.html' class='#' target='_blank'>Ejecuciones arbitrarias, sumarias o extrajudiciales</a> </li><li><a href='http://www.memoriayverdad.org.mx/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/tortura.html' class='#' target='_blank'>Tortura</a> </li>                </ul>
+                <hr />
+                <h5>ARCHIVOS DEL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href='http://www.memoriayverdad.org.mx/index.php/proximamente'class='#' target='_blank'>AUDIOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-bases-guerra'class='#' target='_blank'>BASE DE DATOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-documentos-guerra-sucia'class='#' target='_blank'>DOCUMENTOS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/archivo-fotograf&iacute;a-guerra-sucia'class='#' target='_blank'>FOTOGRAFÍAS</a></li><li><a href='http://www.memoriayverdad.org.mx/index.php/proximamente'class='#' target='_blank'>VIDEOS</a></li>                </ul>
+                <hr />
+                <h5>SITIOS RELACIONADOS AL CASO</h5>
+                <ul class="sidenav">
+                    <li><a href="" class="#">--PRÓXIMAMENTE</a> </li>
+                    <li><a href="" class="#">--PRÓXIMAMENTE</a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="js/jquery-1.12.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.scrolling-tabs.js"></script>
+<script src="js/st-demo.js"></script>
+<script src="js/tab.js"></script>
+
+<script>
+    $( document ).ready(function() {
+        $('.nav-tabs').scrollingTabs('destroy');
+        $('#mainTab').scrollingTabs();
+    });
+</script>
+
+
+
+</body>
+</html>

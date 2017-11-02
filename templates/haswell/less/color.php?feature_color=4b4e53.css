@@ -1,0 +1,398 @@
+@color2: #4b4e53;
+::selection
+{
+  color: @color2 ;
+}
+::-moz-selection  
+{
+  color: @color2 ;
+}
+a{
+    color: @color2 ;
+}
+
+
+.header-1 #main-menu .navbar .nav > li.selected.parent > a{
+    border-bottom: 2px solid @color2;
+}
+.cd-search-trigger::before {
+  border: 1px solid  @color2 ;
+}
+
+.cd-search-trigger::after {
+  background:  @color2 ;
+  
+}
+
+.cd-search-trigger span::before, .cd-search-trigger span::after {
+    
+  background:  @color2 ;
+  
+}
+.tp-caption.dark-light-32 {
+	color: @color2 ;
+}
+.tp-caption.dark-black-100 {
+	color: @color2 ;
+}
+.tp-caption.dark-light-100 {
+	color: @color2 ;
+}
+
+.slider-1-cap-line {
+	background-color:  @color2 ;
+}
+
+.light-72-wide{
+  color: @color2 ;
+}
+
+.light-69-wide,.light-60-wide,.light-60,.light-56-wide,.norm-16-wide{
+  color: @color2 ;
+}
+.tp-caption.dark-light-61 {
+	color: @color2 ;
+}
+.tp-caption.dark-black-63 {
+	color: @color2 ;
+}
+.tp-caption.dark-light-54 {
+	color: @color2 ;
+}
+.tp-caption.dark-light-60 {
+	color: @color2 ;
+}
+.tp-caption.dark-black-60 {
+	color: @color2 ;
+}
+.tp-caption.dark-black-60 {
+	color: @color2 ;
+}
+.scroll-down {
+  color:  @color2 ;
+}
+
+.title-fs-60 {
+	color: @color2 ;
+}
+
+.line-3-100{
+	background: @color2 ;
+}
+
+.fes1-box-icon{
+	color: @color2 ;
+}
+.fes1-box h3 {
+	color: @color2 ;
+}
+
+.title-fs-45 {
+	color: @color2 ;
+}
+
+.line-3-70{
+	background: @color2 ;
+}
+
+.fes4-box-icon{
+  color:  #1E759F ;
+}
+.fes4-title-cont h3, .title-18 {
+  color:  @color2 ;
+}
+.section-title {
+	color: @color2 ; 
+}
+.section-title {
+	color: @color2 ; 
+}
+.section-title-2 {
+	color: @color2 ; 
+}
+.section-title-3 {
+	color: @color2 ; 
+}
+.section-title-3 {
+	color: @color2 ; 
+}
+.fes5-box h3,.fes6-box h3,.fes6-box .icon,.fes7-box-icon,.fes7-box h3,.font-black {
+  color:  @color2 ;
+}
+.fes8-title-cont h3 {
+  color:  @color2 ;
+}
+.fes8-box-icon {
+  color:  @color2 ;
+}
+
+.shopping-cart-table th{
+  color: @color2 ;
+}
+.shop-dep-item  a span.sale-bold {
+  color: @color2 ;
+}
+.shop-price-cont {
+  color: @color2 ;
+}
+.sale-label {
+  color: @color2 ;
+}
+.title-fs-45-wide {
+  color:  @color2 ;
+}
+.port-view-more:hover {
+  color: @color2 ;
+}
+.port-view-more-dark {
+  background: @color2 ;
+}
+.port-view-more-inv:hover {
+  color: @color2 ;
+}.quote p{
+  color: @color2 ;
+}
+.testimonial-2 p{
+  color:  @color2 ;
+}
+.count-number{
+  color: @color2 ;
+}
+.widget-title {
+  color:  @color2 ;
+}
+.tags a:hover{
+  background: @color2 ;
+  border: 1px solid  @color2 ;
+}
+.cis-text h3 {
+  color:  @color2 ;
+}
+input, textarea, select, .login-select, .form-control{
+	color:  @color2 ;
+}
+
+::-webkit-input-placeholder, .form-control::-webkit-input-placeholder {color:  @color2 ;}
+::-moz-placeholder, .form-control::-moz-placeholder           {color: @color2 ;}
+:-moz-placeholder, .form-control:-moz-placeholder           {color: @color2 ;}
+:-ms-input-placeholder, .form-control:-ms-input-placeholder      {color: @color2 ;}
+
+.form-control:focus, .nl-email-input:focus {
+  border-color: @color2 ;
+}
+#main-menu .navbar .nav > li > a {
+	color: @color2 ;
+}
+.header-1 #main-menu .navbar .nav > li.current > a {
+	color: @color2 ; 
+}
+#main-menu .sub {
+  background:  @color2 ;
+}
+.nl-email-input {
+  border-color: @color2 ;
+}
+.tabs.custom-tabs .nav-tabs li.active a{
+	color: #15506C ;
+}
+blockquote, blockquote p {
+  color: #000;
+}
+.ts-icon-container span {
+	color: @color2 ;
+	border-color: @color2 ;
+}
+.tls-small-author-name{
+	color: @color2 ;
+}
+.author-testimonial {
+	color:  @color2 ;
+}
+.countdown-item-container {
+	background:  @color2 ;
+}
+.blog-cat-icon {
+	color: @color2 ;
+}
+.blog-pag .pagination .active a, .blog-pag  .pagination>.active>a:focus, .blog-pag  .pagination>.active>a:hover, .blog-pag  .pagination>.active>span, .blog-pag  .pagination>.active>span:focus, .blog-pag  .pagination>.active>span:hover {
+  
+  background-color:  @color2 ;
+}
+.skill-bar .skill-title {
+	color:  @color2 ;
+}
+.skill-bar2 .skill-bar-content {
+  background:  @color2 ;
+}
+.skillbar-title {
+	color: @color2 ;
+}
+.skillbar-bar {
+	background: @color2 ; 
+}h1, h2, h3{
+	color:  @color2 ;
+}
+h1, h2, h3, h4, h5 {
+	color:  @color2 ;
+}
+h6 {
+	color: #1E759F; text-transform: uppercase; letter-spacing: 2px
+}
+
+
+.highlight-text, .highlight-text-grey {
+  color: @color2 ;
+}
+.button {
+	color: @color2 ;
+	
+}
+.button.thin:hover {
+	color: @color2 ;
+}
+.button.thin.hover-dark:hover {
+	background-color: @color2  !important;
+	border: 2px solid  @color2  !important;
+}
+.button.thin-bg-dark {
+	color: @color2  !important;
+}
+.button.thin-bg-dark:hover {
+	color: @color2  !important;
+}
+.button.thin.yellow:hover {
+	color: @color2 ;
+}
+.button.thin.white:hover {
+	color: @color2 ;
+}
+.button.hover-thin:hover  {
+	color: @color2 ;
+}
+
+.button.gray-light.hover-thin:hover {
+	color: @color2 ;
+}
+.button.thin-inv:hover {
+	color: @color2  !important;
+}
+.button.color-black {
+	color: @color2  !important;
+}.button.yellow {
+	color: @color2 ;
+}
+.button.yellow:hover {
+	background-color: @color2 ;
+}
+
+.button.blue:hover {
+	background-color: @color2 ;
+}
+
+.button.cyan:hover {
+	background-color: @color2 ;
+}
+.button.teal:hover {
+	background-color: @color2 ;
+}
+.button.gray-light {
+	color:  @color2 ;
+}
+
+.button.gray-light:hover {
+	background-color: @color2 ;
+}
+
+.button.deeporange:hover {
+	background-color: @color2 ;
+}
+
+.button.green:hover {
+	background-color: @color2 ;
+}
+
+.button.lime:hover {
+	background-color: @color2 ;
+}
+
+a {
+  color:  @color2 ;
+}
+.a-blue:hover{
+	color:  @color2 ;
+}
+.black-text {
+	color: @color2  !important;
+	border-color: @color2  !important;
+}
+#back-top a {
+	color: @color2 ;
+}
+.highlight {
+	color: @color2 ;
+}
+.counter-icon{
+	color:  @color2 ;
+}
+
+.ui-accordion-header a{
+	color: @color2 ;
+}
+.ui-accordion-header:hover span:before{
+  color: @color2 ;
+}
+.ui-accordion-header-active span:before {
+  color: @color2 ;
+}
+.currency-4, .price-4, .cents-4, .place2-4{
+  color:  @color2 ;
+}
+.pt-h1-container {
+	border:2px solid  @color2 ;
+}
+.pt-content-container {
+	border-right:2px solid  @color2 ;
+	border-left:2px solid  @color2 ;
+}
+.pt-best .price-container {
+	color: @color2 ;
+}
+.pt-best .currency, .pt-best .price, .pt-best .cents , .pt-best .place2{
+	color: @color2 ;
+}
+.price-container {
+	background-color:  @color2 ;
+}
+.pricing-horizontal-price-container .price-container .currency, .pricing-horizontal-price-container .price-container .place2, .pricing-horizontal-price-container .price-container .price, .pricing-horizontal-price-container .price-container .cents {
+	color:  @color2 ;
+}
+.price-col-gray h1 {
+	background-color:  @color2 ;
+}
+.price-col-main .price-container {
+	background-color: @color2 ;
+}
+.pricing-table-2 h1 {
+	color: @color2 ;
+}
+
+.price-container2 {
+  background-color:  @color2 ;
+}
+.section-title {
+    border-left: @color2 2px solid;
+}
+.cd-timeline-start-caption {
+	color:  @color2 ;
+}
+@media (max-width: 1024px) {
+    .cd-search-trigger::before {
+	  border: 2px solid  @color2 ;
+	}
+    .hamb-mob-icon {
+	  color:  @color2 ;
+	}
+    .main-menu-container {
+		background-color:  @color2 ;
+	}
+}

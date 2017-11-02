@@ -1,0 +1,124 @@
+<? header('Content-Type: text/html; charset=UTF-8'); ?>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+
+
+<head>
+    <link href="bootstrap.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:700,400' rel='stylesheet' type='text/css'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    
+    <script type="text/javascript" charset="utf-8">
+        
+         function resizeDiv() {
+         if($(window).width() <  600) {
+	    $('#public').css({ transform: 'scale(.50)' });
+         }
+         else if($(window).width() >=600  && $(window).width() <  768) {
+
+	    $('#public').css({ transform: 'scale(.70)' });
+
+         } else if ($(window).width() >=768  && $(window).width() <  950) {
+	    
+	    $('#public').css({ transform: 'scale(.80)' });
+
+         }else if ($(window).width() >=950) {
+	    
+	    $('#public').css({ transform: 'scale(1)' });
+
+         }
+         }
+
+         window.onresize = function(){
+	         resizeDiv();
+         }
+         
+         window.onload = function () {
+         	resizeDiv();
+         }
+         </script>
+</head>
+
+<body id="public" style="width: 95%;">
+<!-- Container -->
+<div id="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+
+                        <form id="buscador" name="buscador" method="post" action="/buscador_masivo/buscador.php" enctype="multipart/form-data">
+                <div Style="font-family:Arial; color:#000; font-weight: bold;">
+                    <div>
+                        <h3>Buscador de Archivos</h3>
+                    </div>
+                </div>
+                <table class="table table-hover">
+                    <tbody>
+                    <tr>
+
+                                                <td><br/><label>Eje Temático</label><br/>
+                            <select id="eje_tematico" name="eje_tematico" class="form-control">
+                                <option value="0">Todos los Ejes Temáticos</option>
+                                <option value='1'>Desaparición forzada</option><option value='2'>Tortura</option><option value='3'>Ejecuciones arbitrarias, sumarias o extrajudiciales</option><option value='4'>Homicidio</option><option value='5'>Desplazamiento forzado</option><option value='6'>Esterilización forzada</option><option value='7'>Fosas clandestinas y otras inhumaciones irregulares</option><option value='8'>Genocidio</option><option value='9'>Detención arbitraria</option><option value='10'>Otros delitos graves</option>                            </select>
+                        </td>
+                                                <td><br/><label>Derecho Humano</label><br/>
+                            <select id="derecho_humano" name="derecho_humano" class="form-control">
+                                <option value="0">Todos los Derechos Humanos</option>
+                                <option value='1'>Vida</option><option value='2'>Integridad</option><option value='3'>Seguridad</option><option value='4'>Libertad</option><option value='5'>Acceso a la justicia</option><option value='6'>Expresión</option><option value='7'>Información</option><option value='8'>Salud</option><option value='9'>Igualdad</option>                            </select>
+                        </td>
+                                                <td><br/><label>Caso</label><br/>
+                            <select id="caso" name="caso" class="form-control">
+                                <option value="0">Todos los Casos</option>
+                                <option value='4'>Acteal</option><option value='8'>Aguas Blancas</option><option value='11'>Apatzingan</option><option value='7'>Atenco</option><option value='5'>Ayotzinapa 2011</option><option value='6'>Ayotzinapa 2014</option><option value='1'>Cadereyta</option><option value='12'>Campo Algodonero</option><option value='14'>El Halconazo</option><option value='13'>Guerra Sucia</option><option value='3'>San Fernando 2010</option><option value='2'>San Fernando 2011</option><option value='15'>Tlatelolco</option><option value='9'>Tlatlaya</option>                            </select>
+                        </td>
+                                                <td><br/><label>Autor/Institución</label><br/>
+                            <select id="autor" name="autor" class="form-control">
+                                <option value="0">Todos los Autores</option>
+                                <option value='1'>43 voces</option><option value='2'>ABC</option><option value='3'>Agencia Detrás de la Noticia</option><option value='4'>Agencia MVT</option><option value='5'>Ap en español</option><option value='6'>Artículo 19</option><option value='7'>Arturo Zalvívar</option><option value='8'>Bernandino Hernández</option><option value='9'>Blog SIPAZ</option><option value='10'>Canal 6 de julio</option><option value='11'>Carlos Fazio</option><option value='12'>Carmen Aristegui</option><option value='13'>CEJIL</option><option value='14'>Centro ProDH</option><option value='15'>CIDH</option><option value='16'>CISEN</option><option value='17'>CLADEM</option><option value='18'>CML-DF</option><option value='19'>CNDH</option><option value='20'>CNN</option><option value='21'>Comisión de la verdad de Guerrero</option><option value='22'>Contrapapel</option><option value='23'>Cuartoscuro</option><option value='24'>Debora Poo</option><option value='25'>Departamento de Defensa Estados Unidos</option><option value='26'>Departamento de Estado</option><option value='27'>Desconocido</option><option value='28'>Diario Fuerza</option><option value='29'>Diego Enrique Osorno</option><option value='30'>Édgar de Jesús Espinoza</option><option value='31'>Ejecentral</option><option value='32'>El 7 de Chiapas</option><option value='33'>El Daily Post</option><option value='34'>El Universal</option><option value='35'>El Universal TV</option><option value='36'>Formato 7</option><option value='37'>Francisco Acuña</option><option value='38'>Fundación para la Justicia</option><option value='39'>Fundar</option><option value='40'>GIEI</option><option value='41'>Ginette Riquelme</option><option value='42'>Imágenes en Rebeldía</option><option value='43'>INAI</option><option value='44'>AGN</option><option value='45'>Isabel Núñez Othon</option><option value='46'>Juzgado Primero de Distrito en Sonora</option><option value='47'>La Carpa</option><option value='48'>La Sandía Digital</option><option value='49'>Libera Radio</option><option value='50'>Miguel Carrillo</option><option value='52'>National Security Archives</option><option value='53'>New Media Advocacy Project</option><option value='54'>Nmap</option><option value='55'>Noticias MVS</option><option value='56'>Notimex</option><option value='57'>Octavio Gómez</option><option value='58'>Ojos de Perro vs. la Impunidad, A.C</option><option value='59'>Organización Mundial contra la Tortura</option><option value='60'>Pablo Ferri</option><option value='61'>Patricia Duarte</option><option value='62'>Pedro Valtierra</option><option value='63'>Periodistas de a pie</option><option value='64'>PGR</option><option value='65'>Programa DDHH Ibero</option><option value='66'>RedAcción</option><option value='67'>Reporteros en Movimiento</option><option value='68'>Revista Costa Brava</option><option value='69'>Ricardo Rocha</option><option value='70'>Rompeviento</option><option value='71'>SCJN</option><option value='72'>Sergio Salvador Aguirre</option><option value='73'>sin embargo</option><option value='74'>Subversiones</option><option value='75'>Enrique Maza</option><option value='76'>Tlachinollan</option><option value='77'>Univisión Noticias</option><option value='78'>Vimeo</option><option value='79'>W Radio</option><option value='80'>Wikipedia</option><option value='81'>YouTube</option><option value='82'>AICM</option><option value='83'>ASA</option><option value='84'>CDI</option><option value='85'>Memoria y Verdad</option><option value='86'>PFP</option><option value='87'>Presidencia de la República</option><option value='88'>SEDENA</option><option value='89'>SEDESOL</option><option value='90'>SEGOB</option><option value='91'>SFP</option><option value='92'>SRE</option><option value='93'>SSP</option><option value='100'>Otro</option>                            </select>
+                        </td>
+                                                <td><br/><label>Tipo de documento</label><br/>
+                            <select id="tipo_documento" name="tipo_documento" class="form-control">
+                                <option value="0">Todos los Tipos de Documentos</option>
+                                <option value='1'>Documento oficial </option><option value='2'>Documento no oficial </option><option value='3'>Multimedia</option>                            </select>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+                <br/>
+                <input class="button small blue" type="submit" name="submit" value="BUSCAR ARCHIVOS">
+                <div class="bs-example" data-example-id="striped-table">
+                    <table class="table table-hover m-t-40" style="table-layout: fixed;" id="tablaDocumentos">
+                        <thead>
+                        <tr><th style='width:40px'></th><th style='width:190px'>Nombre</th><th style='width:90px'>Descripción</th><th style='width:100px'>Caso</th><th style='width:190px'>Ejes Temáticos</th><th style='width:190px'>Derechos Humanos</th><th style='width:120px'>Autor/ Institución</th><th style='width:90px'>Fecha</th><th style='width:200px'>Tipo de Documento</th><th></th></tr>
+                        </thead>
+                        <tbody>
+                                                </tbody>
+                    </table>
+                    
+        	    <div style="margin-left:58px; margin-right:58px; padding:6px; background-color:#FFF;"></div>
+                    <table>
+                        <tr>
+                            <td>
+                                <input class="button small blue" type="button" id="descargar" name="descargar" value="DESCARGAR ARCHIVOS" data-toggle="modal" data-target="#myModal" onclick="descargaMasiva();" style="display:none">
+                                <a href="#" id="liga" download></a>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td id="spinner" style="display:none">
+                                <i class="fa fa-spinner fa-spin" style="font-size:48px;color:blue"></i>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <img src='./leyenda.png' width='100%'/>
+    </div>
+    </div>
+</div>
+<script src="js/jquery-1.10.2.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="js/utils.js" type="text/javascript"></script>
+</body>
+</html>

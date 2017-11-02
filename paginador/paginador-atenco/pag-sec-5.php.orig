@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>0000400039710</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Oficio completo 101/2007 que obra en el expediente 286/2007-PL, donde se detalla la actuación del personal del Centro de Investigación y Seguridad Nacional con relación a los hechos acontecidos el día 3 de mayo del 2006 en Texcoco y San Salvador Atenco</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La autoridad no es competente para contar con información relacionada</p><span class='grey'>Autoridad:</span><p>SSP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_atenco/0000400039710.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0002700077906</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>¿Que están haciendo actualmente las autoridades federales asi como las del Estado de México para solicionar todo lo concerniente al caso de San Salvador Atenco?</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Favor de especificar a qué documento o información  de esta secretaria de la función pública desea tener acceso.</p><span class='grey'>Autoridad:</span><p>SFP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_atenco/0002700077906.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0413100017306</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>¿Qué tipo de sanción se le aplica a aquel policia federal que presuntamente ha excedido el uso de la fuerza en operativos de alto riesgo, por ejemplo, el caso Atenco?</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>De conformidad con lo dispuesto en el artículo 139 del Reglamento de la Policía Federal Preventiva las sanciones serán: AMONESTACIÓN, REMOCIÓN, SUSPENSIÓN Y CESE</p><span class='grey'>Autoridad:</span><p>PFP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_atenco/0413100017306.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0413100086012</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>1.- Documentos en que se haya ordenado el despliegue de Policía Federal los municipios de San Salvador Atenco y Texcoco del Estado de México, durante los días 1 al 10 de mayo de 2006.
+2.- Documentos en que alguna entidad pública o privada, haya solicitado u ordenado la intervención de Policía Federal en dichos municipios.
+3.- Documentos en que se haya fundado y motivado la orden de desplegar el operativo mencionado, durante el período de referencia.
+4.- Documentos que establezcan con precisió</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La información solicitada es inexistente</p><span class='grey'>Autoridad:</span><p>PFP</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_atenco/0413100086012.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_5('1')">Primero</a> <strong>Página 1/3</strong><a onclick="Pagina_5('2')"> Siguiente</a> <a onclick="Pagina_5('3')"> Último</a></div></div>
+</body>
+</html>

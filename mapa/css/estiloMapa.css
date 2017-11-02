@@ -1,0 +1,169 @@
+
+
+body {margin: 0 auto; overflow-y:hidden; font-family: 'Montserrat', sans-serif;}
+
+.caja{
+    display: inline-block;
+}
+.parrafo{
+    text-align: center;
+}
+.titulos{
+    text-align: center;
+}
+/*.container { position:relative; margin:0px auto; padding:0px; width: 600px; height: 400px; overflow: auto; }*/
+
+#canvas {margin-top:40px}
+
+#elem_titulo
+{
+    text-decoration: none;
+    color: #12455d;
+    display: block;
+    width: 280px;
+}
+#elem_ciudad
+{
+    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+    text-decoration: none;
+    color: #1E759F;;
+    display: block;
+    width: 280px;
+}
+
+#div_principal{
+    background-color: rgb(238, 238, 238);
+    width: 100%;
+	overflow-x: hidden
+	
+    /*height: 640px;*/
+}
+#div_lista_casos{
+
+    font-family: sans-serif;
+    width: auto;
+    height: 480px;
+	margin-left: 2%
+}
+#div_titulo_casos{
+    color: #F2F2F2;
+	position: absolute;
+    right: 20px;
+    margin-right: 0px;
+    width:30%;
+}
+#div_titulo_casos h2 {text-align: right;}
+#div_linea_tiempo{
+    margin: 0 auto;
+    width: 100%;
+    height: 160px;
+}
+#oculto{
+    position: absolute;
+    left: 74%;
+    display: none;
+    width: 22%;
+    height: 200px;
+	top: 205px;
+}
+#paper { 
+    align: rigth;
+    display: block;
+    height: 30px;
+    left: 25%;
+    position: absolute;
+    top: 15%;
+    width: 30px;
+}
+
+.lienzo{
+    padding: 5px;
+    position: absolute;
+    background-color: #12455d;
+    display: inline-block;
+	color:#FFF;
+	font-size: 12px;
+	border-radius: 5px;
+    /*height: 10%;
+    padding: 0 2%;
+    width: 2%;*/
+}
+.my-svg{ /* svg into : object, img or inline */
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* only required for <img /> */
+}
+.my-svg-container{
+    display: inline-block;
+    position: relative;
+    width: 50%;
+    padding-bottom: 60%; /* depends on svg ratio, for my zebra height/width = 1.2 so padding-bottom = 50% * 1.2 = 60% */
+
+    vertical-align: middle; /* top | middle | bottom ... do what you want */
+}
+.range {background-color:#979EA0}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    padding-left: 10px;
+    font: 200 16px/1.5;
+    border-bottom: 1px solid rgba(75, 78, 83, 0.18);
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+li:last-child {
+    border: none;
+}
+
+li a {
+    text-decoration: none;
+    color: #4b4e53;
+    display: block;
+    width: auto;
+	min-width: 195px;
+	padding: 5px;
+    -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -o-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
+    transition: font-size 0.3s ease, background-color 0.3s ease;
+}
+
+li a:hover {
+    font-size: 18px;
+    background: #12455d;
+	color: #FFF;
+	text-decoration:none
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+	font-weight: 700; 
+	color: #4b4e53;
+}
+.slideRight {
+    position: absolute;
+    transition-property: background-color, color, left;
+    transition-duration: 5s;
+    -webkit-transition-property: background-color, color, left;
+    -webkit-transition-duration: 5s;
+    -o-transition-property: background-color, color, left;
+    -o-transition-duration: 5s;
+    background-color: red;
+    left: 0%;
+    color: black;
+}
+#mitabla {background-color:#FFF; padding:10px; border:0; font-family: sans-serif;}
+#mitabla th, td {border:0}
+
+@media (min-width:768px) and (max-width:1300px) {
+    #paper {top: 0;}
+	#div_lista_casos{margin-left: 3%}
+}

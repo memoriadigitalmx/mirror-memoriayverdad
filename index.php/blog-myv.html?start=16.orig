@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" dir="ltr">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+	  <base href="http://www.memoriayverdad.org.mx/index.php/blog-myv.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta property="og:url" content="http://www.memoriayverdad.org.mx/index.php/blog-myv.html?start=16" />
+  <meta property="og:title" content="Nota" />
+  <meta property="og:type" content="website" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Nota</title>
+  <link href="http://www.memoriayverdad.org.mx/index.php/blog-myv.html" rel="canonical" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/haswell/rs-plugin/css/settings.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/haswell/css/flexslider.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/haswell/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,400,700%7COpen+Sans:400,300,700" type="text/css" />
+  <link rel="stylesheet" href="/templates/haswell/css/icons-fonts.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/haswell/css/text-rotator.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/haswell/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/haswell/css/custom.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/haswell/css/animate.min.css" type="text/css" />
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.9&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/templates/haswell/js/jquery-1.11.2.min.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/isotope.pkgd.min.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/imagesloaded.pkgd.min.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/masonry.pkgd.min.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/jquery.countTo.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/jquery.appear.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/owl.carousel.min.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/jquery.stellar.min.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/text-rotator.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/jquery.nav.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/jquery.flexslider-min.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/flex-slider.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/main.js" type="text/javascript"></script>
+  <script src="/templates/haswell/js/script.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+});function do_nothing() { return; }
+  </script>
+
+    <!-- Standard Favicon--> 
+	<link rel="shortcut icon" href="/images/favicons.png">
+    <link rel="apple-touch-icon" href="/images/favicons.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/favicon72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/favicon114.png">
+			<link href='//fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
+		<link href='//fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css' />
+		
+        <style type="text/css">
+			h1,h2,h3{
+				font-family: 'Montserrat',Arial,Helvetica,sans-serif !important;
+			}
+		</style>
+        <style type="text/css">
+			body,h4,h5,h6,.site-title{
+				font-family: 'Montserrat',Arial,Helvetica,sans-serif !important;
+			}
+		</style>
+		
+    <!-- LESS stylesheet for managing color presets -->	
+    <link rel="stylesheet/less" type="text/css" 
+        href="/templates/haswell/less/color.php?feature_color=4b4e53">
+
+    <!-- LESS JS engine -->
+    <script src="/templates/haswell/less/less-1.5.0.min.js"></script>
+    <style type="text/css">
+        .button.thin.gray {
+        	border-color: #12455d;
+        	color: #12455d;
+        }
+        .button.thin.gray:hover {
+        	background-color: #12455d;
+        }
+        .button.thin.gray:hover {
+        	background-color: #12455d;
+        }
+        .button.gray.hover-thin {
+        	border-color: #12455d;
+        }
+        .button.gray.hover-thin:hover {
+        	border: 2px solid #12455d;
+        	color: #12455d;
+        }
+        .button.gray {
+        	background-color: #12455d;
+        }
+    </style>
+
+</head>
+
+<body class="site com_k2 view-itemlist layout-category task-category itemid-218">
+<!-- LOADER -->	
+<div id="loader-overflow">
+    <div id="loader3">Please enable JS</div>
+</div>	
+<div id="wrap" class="boxed ">
+<div class="grey-bg"> <!-- Grey BG  -->	  
+    		  
+         
+            <!-- HEADER -->
+        	<header id="nav" class="header header-1 no-transparent mobile-no-transparent">
+        	  <div class="header-wrapper">
+        		<div class="container-m-30 clearfix">
+    			  <div class="logo-row">
+    			  
+    				<!-- LOGO --> 
+    				<div class="logo-container-2">
+    				  <a href="http://www.memoriayverdad.org.mx/">
+    					  <div class="logo-2">
+    						  <img class="logo-img" src="http://www.memoriayverdad.org.mx/images/imgLogoHeader.png" alt="Memoria y Verdad" />    					  </div>
+    				  </a>
+    				</div>
+    				<!-- BUTTON --> 
+    				<div class="menu-btn-respons-container">
+    					<button type="button" class="navbar-toggle btn-navbar collapsed" data-toggle="collapse" data-target="#main-menu .navbar-collapse">
+    						<span aria-hidden="true" class="icon_menu hamb-mob-icon"></span>
+    					</button>
+    				</div>
+    			 </div>
+    			</div>
+        
+        		<!-- MAIN MENU CONTAINER -->
+        		<div class="main-menu-container">
+        			
+        			  <div class="container-m-30 clearfix">	
+        			  
+        					<!-- MAIN MENU -->
+        					<div id="main-menu">
+        					  <div class="navbar navbar-default" role="navigation">
+        
+        						<nav class="collapse collapsing navbar-collapse right-1024">
+                                		<div class="moduletable_menu">
+						<ul class="nav navbar-nav  "
+>
+<li class="item-101"><a href="/index.php" title="Memoria y Verdad" >Inicio</a></li><li class="item-140 btdivider deeper drop parent"><a>Derechos Humanos y Violaciones</a>
+<ul class="sub"><li class="item-157 btdivider deeper drop parent"><a>Derechos Humanos</a>
+<ul class="sub"><li class="item-409"><a href="/index.php/derechos-humanos-violaciones/derechos-humanos/cuales-son-las-violaciones-graves-a-derechos-humanos.html" >¿Cuáles son las violaciones graves a Derechos Humanos?</a></li><li class="item-161"><a href="/index.php/derechos-humanos-violaciones/derechos-humanos/que-son-los-delitos-de-esa-humanidad.html" >¿Qué son los delitos de lesa humanidad?</a></li><li class="item-346"><a href="/index.php/derechos-humanos-violaciones/derechos-humanos/¿qué-es-el-derecho-a-la-verdad.html" >¿Qué es el derecho a la verdad?</a></li><li class="item-349"><a href="/index.php/derechos-humanos-violaciones/derechos-humanos/denuncia-violaciones-de-derechos-humanos.html" >Denuncia violaciones de derechos humanos</a></li></ul></li><li class="item-162 btdivider deeper drop parent"><a>Violaciones de Derechos Humanos</a>
+<ul class="sub"><li class="item-164"><a href="/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/desaparicion-forzada.html" >Desaparición forzada</a></li><li class="item-165"><a href="/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/tortura.html" >Tortura</a></li><li class="item-166"><a href="/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/ejecuciones-arbitrarias.html" >Ejecuciones arbitrarias, sumarias o extrajudiciales</a></li><li class="item-390"><a href="/index.php/derechos-humanos-violaciones/violaciones-de-los-derechos-humanos/masacres.html" >Masacres</a></li></ul></li></ul></li><li class="item-167 deeper drop parent"><a href="/index.php/casos.html" >Casos</a><ul class="sub"><li class="item-173"><a href="/index.php/casos/acteal.html" >Acteal</a></li><li class="item-358"><a href="/index.php/casos/masacre-de-aguas-blancas.html" >Aguas Blancas</a></li><li class="item-359"><a href="/index.php/casos/atenco.html" >Atenco</a></li><li class="item-360"><a href="/index.php/casos/masacre-apatzingan.html" >Apatzingán</a></li><li class="item-361"><a href="/index.php/casos/ayotizanapa-2011.html" >Ayotzinapa 2011</a></li><li class="item-362"><a href="/index.php/casos/ayotizanapa-2014.html" >Ayotzinapa 2014</a></li><li class="item-363"><a href="/index.php/casos/caderyta.html" >Cadereyta</a></li><li class="item-364"><a href="/index.php/casos/campo_algodonero.html" >Campo Algodonero</a></li><li class="item-365"><a href="/index.php/casos/guarderia-abc.html" >Guardería ABC</a></li><li class="item-366"><a href="/index.php/casos/guerra-sucia.html" >Guerra Sucia</a></li><li class="item-367"><a href="/index.php/casos/el-halconazo.html" >El Halconazo</a></li><li class="item-368"><a href="/index.php/casos/sanfernando-2010.html" >San Fernando 2010</a></li><li class="item-369"><a href="/index.php/casos/sanfernando-2011.html" >San Fernando 2011</a></li><li class="item-370"><a href="/index.php/casos/masacre-tlatlaya.html" >Tlatlaya</a></li><li class="item-371"><a href="/index.php/casos/tlatelolco.html" >Tlatelolco</a></li></ul></li><li class="item-174 btdivider deeper drop parent"><a>Archivo</a>
+<ul class="sub"><li class="item-439"><a href="/index.php/archivo/archivo-buscador-masivo.html" >Buscador</a></li><li class="item-142"><a href="/index.php/archivo/archivo-categoria.html" >Documentos Oficiales</a></li><li class="item-460 btdivider deeper drop parent"><a>Documentos No Oficiales </a>
+<ul class="sub"><li class="item-463"><a href="/index.php/archivo/documentos-no-oficiales/archivos.html" >Archivos</a></li><li class="item-381"><a href="/index.php/archivo/documentos-no-oficiales/bases_de_datos.html" >Bases de datos</a></li></ul></li><li class="item-461 btdivider deeper drop parent"><a>Multimedia</a>
+<ul class="sub"><li class="item-380"><a href="/index.php/archivo/multimedia/archivo-audios.html" >Audios</a></li><li class="item-374"><a href="/index.php/archivo/multimedia/_archivo_galería.html" >Fotografías</a></li><li class="item-405"><a href="/index.php/archivo/multimedia/archivo-infografias.html" >Infografías</a></li><li class="item-379"><a href="/index.php/archivo/multimedia/archivo-videos.html" >Videos</a></li></ul></li></ul></li><li class="item-175"><a href="/index.php/acerca-de.html" >Acerca del proyecto</a></li><li class="item-213"><a href="/index.php/jurisprudencia.html" >Enlaces externos</a></li><li class="item-218 current selected"><a href="/index.php/blog-myv.html" >Blog</a></li><li class="item-210"><a href="/index.php/contact-us.html" >Contacto</a></li></ul>
+		</div>
+	
+        						</nav>
+        
+        					  </div>
+        					</div>
+        					<!-- END main-menu -->
+        					
+        			  </div>
+        			  <!-- END container-m-30 -->
+        			
+        		</div>
+        		<!-- END main-menu-container -->
+        		
+     		
+        				<div class="moduletable">
+						
+
+<div class="custom"  >
+	<style>
+    .redes {
+        margin:10px auto 20px 67%;
+        text-align:center;
+    }
+
+    .redes .botfac{
+        padding-top: 5px;
+        zoom: 1;
+        *display: inline;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .redes .bottwi, .redes .botgoo {
+        width: 100px;
+        overflow:hidden;
+        zoom: 1;
+        *display: inline;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .redes .botgoo {
+        width:60px;
+    }
+</style>
+
+
+
+
+<div class="redes">
+
+    <div class="botfac">
+
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.5";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+        <div class="fb-like" data-href="https://www.facebook.com/Proyecto-Memoria-y-Verdad-1476009872707809/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+
+
+
+    </div>
+    <div  class="bottwi">
+
+
+        <a href="https://twitter.com/memoriayverdad" class="twitter-follow-button" data-show-count="false" data-lang="es" data-show-screen-name="false">Seguir a @memoriayverdad</a>
+        <script src="https://apis.google.com/js/platform.js" async defer>
+            {lang: 'es-419'}
+        </script>
+
+
+    </div>
+    <div class="botgoo">
+
+
+        <div class="g-plusone" data-size="tall" data-annotation="none" data-href="https://www.google.com.mx"></div>
+
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+    </div>
+</div>
+</div>
+		</div>
+	
+                
+        	  </div>
+        	  <!-- END header-wrapper -->
+        	  
+        	</header>
+         
+                                    
+             <div class="page-title-cont page-title-small grey-dark-bg">
+      <div class="relative container align-left">
+        <div class="row">
+          
+          <div class="col-md-12">
+            <h1 class="page-title">Nota</h1>
+          </div>
+          
+          <div class="col-md-12">
+              		<div class="moduletable">
+						
+<div class="breadcrumbs ">
+	<a href="/index.php" class="pathway">Inicio</a><span class="slash-divider">/</span><span class=""></span>Blog</div>
+		</div>
+	
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    
+                         
+            <!-- main content -->
+            <div class="container p-140-cont">
+            <div class="row ">
+                                <div class="col-sm-9 col-md-9 blog-main-posts">
+                    
+                    <div id="system-message-container">
+	</div>
+
+                    
+<!-- Start K2 Category Layout -->
+<div class="container">
+
+	
+	
+		<!-- Blocks for current category and subcategories -->
+	<div class="itemListCategoriesBlock">
+
+		
+		
+	</div>
+	
+
+
+		<!-- Item list -->
+	<div class="row masonry">
+
+				<!-- Leading items -->
+		
+			<div class="wow fadeIn pb-70  ">
+						
+			
+<!-- Start K2 Item Layout -->
+<div class=" Leading">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	                 <div class="post-prev-title">
+            	  <!-- Item title -->
+          
+    	  <h3 class="entry-title">
+    			    
+    	  	    			<a href="/index.php/blog-myv/item/110-proyecto-memoria-y-verdad-difusión-sobre-violaciones-graves-a-derechos-humanos.html">
+    	  		Proyecto Memoria y Verdad: difusión sobre violaciones graves a derechos humanos    	  	</a>
+    	  	    
+    	  	    	  </h3>
+    	      </div>
+      
+    <div class="post-prev-info">
+                                
+      
+    </div>
+    
+      
+    <div class="post-prev-text">
+          	  <!-- Item introtext -->
+    	  <div class="btcatItemIntroText">
+    	  	<p class="gris">Fecha:mayo 17,2015&nbsp;<strong>Por: Article 19</strong></p>
+<div class="row"><!--inicia row-->
+<div class="col-xs-5 col-sm-3 col-md-2"><img src="/images/_articulos_imagenes/BlogEntrada5_thumb.png" alt="" /></div>
+<div class="col-sm-9 col-md-8">
+<p>El d&iacute;a de hoy se instala el grupo de trabajo del Proyecto Memoria y Verdad coordinado por el Instituto Nacional de Acceso a la Informaci&oacute;n P&uacute;blica y Protecci&oacute;n de Datos (INAI) y ARTICLE 19. El proyecto busca difundir informaci&oacute;n de los casos de violaciones graves a derechos humanos y delitos de lesa humanidad ocurridos en M&eacute;xico desde 1960 a la fecha.</p>
+</div>
+</div>
+<!--cierra row-->    	  </div>
+    	   
+    </div>
+    <div class="post-prev-more-cont clearfix">
+      <div class="post-prev-more left">
+              </div>
+      <div class="right open" >
+        <a href="/blog-single-sidebar-right.html#comments" class="post-prev-count">
+            
+            <span aria-hidden="true" class="icon_comment_alt"></span>
+                    </a>
+        <a href="http://themeforest.net/user/abcgomel/portfolio?ref=abcgomel" class="post-prev-count">
+        <span aria-hidden="true" class="icon_heart_alt"></span>
+                </a>
+        <a href="#" class="post-prev-count dropdown-toggle" data-toggle="dropdown" aria-expanded="false" >
+          <span aria-hidden="true" class="social_share"></span>
+        </a>
+        <ul class="social-menu dropdown-menu dropdown-menu-right" role="menu">
+                		<!-- Twitter Button -->
+            <li>
+            <a data-toggle="tooltip" data-original-title="Twitter" href="https://twitter.com/share"  data-count="horizontal" >
+    			<span aria-hidden="true" class="social_twitter"></span>	    			</a>
+    			<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+            </li>
+            <li>
+            
+    		<!-- Facebook Button -->
+    	   <a data-toggle="tooltip" data-original-title="Facebook" onclick="window.open('http://www.facebook.com/sharer.php?u=/index.php/blog-myv/item/110-proyecto-memoria-y-verdad-difusión-sobre-violaciones-graves-a-derechos-humanos.html','Facebook','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="/index.php/blog-myv/item/110-proyecto-memoria-y-verdad-difusión-sobre-violaciones-graves-a-derechos-humanos.html">
+            <span aria-hidden="true" class="social_facebook"></span></a>
+    		
+            </li>
+            <li>
+            
+    		<!-- Google +1 Button -->
+    		<a data-toggle="tooltip" data-original-title="Google Plus" onclick="window.open('https://plus.google.com/share?url=/index.php/blog-myv/item/110-proyecto-memoria-y-verdad-difusión-sobre-violaciones-graves-a-derechos-humanos.html','Google plus','width=585,height=666,left='+(screen.availWidth/2-292)+',top='+(screen.availHeight/2-333)+''); return false;" href="https://plus.google.com/share?url=/index.php/blog-myv/item/110-proyecto-memoria-y-verdad-difusión-sobre-violaciones-graves-a-derechos-humanos.html">
+            <span aria-hidden="true" class="social_googleplus"></span></a>
+    		
+            </li>
+            <li>
+            
+            <a data-original-title="Pinterest" data-toggle="tooltip" href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());">
+            <span aria-hidden="true" class="social_pinterest"></span></a>
+            </li>
+    			
+    		<li>
+    		<a data-original-title="Linkedin" data-toggle="tooltip" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=/index.php/blog-myv/item/110-proyecto-memoria-y-verdad-difusión-sobre-violaciones-graves-a-derechos-humanos.html','Linkedin','width=863,height=500,left='+(screen.availWidth/2-431)+',top='+(screen.availHeight/2-250)+''); return false;" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=/index.php/blog-myv/item/110-proyecto-memoria-y-verdad-difusión-sobre-violaciones-graves-a-derechos-humanos.html">
+            <span aria-hidden="true" class="social_linkedin"></span></a>
+            </li>
+        </ul>
+      </div>
+    </div>
+  
+      
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+
+  
+  
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+</div>
+<!-- End K2 Item Layout -->
+								</div>
+			<div class="wow fadeIn pb-70  ">
+						
+			
+<!-- Start K2 Item Layout -->
+<div class=" Leading">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	                 <div class="post-prev-title">
+            	  <!-- Item title -->
+          
+    	  <h3 class="entry-title">
+    			    
+    	  	    			<a href="/index.php/blog-myv/item/109-inai-y-artículo-19-instalarán-los-trabajos-del-“proyecto-memoria-y-verdad”.html">
+    	  		INAI y Artículo 19 instalarán los trabajos del “Proyecto Memoria y Verdad”    	  	</a>
+    	  	    
+    	  	    	  </h3>
+    	      </div>
+      
+    <div class="post-prev-info">
+                                
+      
+    </div>
+    
+      
+    <div class="post-prev-text">
+          	  <!-- Item introtext -->
+    	  <div class="btcatItemIntroText">
+    	  	<p class="gris">Fecha:mayo 17,2015 <strong>Por: Inai</strong></p>
+<div class="row"><!--inicia row-->
+<div class="col-xs-5 col-sm-3 col-md-2"><img src="/images/_articulos_imagenes/BlogEntrada3_thumb.png" alt="" class="img-responsive" /></div>
+<div class="col-sm-9 col-md-8">
+<p>El Instituto Nacional de Transparencia, Acceso a la Informaci&oacute;n y Protecci&oacute;n de Datos Personales (INAI) y la Oficina para M&eacute;xico y Centroam&eacute;rica de Art&iacute;culo 19 instalar&aacute;n este lunes los trabajos del &ldquo;Proyecto Memoria y Verdad&rdquo;, cuyo objetivo es dar publicidad y difundir proactivamente la informaci&oacute;n relacionada con presuntas violaciones graves a derechos humanos y delitos de lesa humanidad.</p>
+</div>
+</div>
+<!--cierra row-->    	  </div>
+    	   
+    </div>
+    <div class="post-prev-more-cont clearfix">
+      <div class="post-prev-more left">
+              </div>
+      <div class="right open" >
+        <a href="/blog-single-sidebar-right.html#comments" class="post-prev-count">
+            
+            <span aria-hidden="true" class="icon_comment_alt"></span>
+                    </a>
+        <a href="http://themeforest.net/user/abcgomel/portfolio?ref=abcgomel" class="post-prev-count">
+        <span aria-hidden="true" class="icon_heart_alt"></span>
+                </a>
+        <a href="#" class="post-prev-count dropdown-toggle" data-toggle="dropdown" aria-expanded="false" >
+          <span aria-hidden="true" class="social_share"></span>
+        </a>
+        <ul class="social-menu dropdown-menu dropdown-menu-right" role="menu">
+                		<!-- Twitter Button -->
+            <li>
+            <a data-toggle="tooltip" data-original-title="Twitter" href="https://twitter.com/share"  data-count="horizontal" >
+    			<span aria-hidden="true" class="social_twitter"></span>	    			</a>
+    			<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+            </li>
+            <li>
+            
+    		<!-- Facebook Button -->
+    	   <a data-toggle="tooltip" data-original-title="Facebook" onclick="window.open('http://www.facebook.com/sharer.php?u=/index.php/blog-myv/item/109-inai-y-artículo-19-instalarán-los-trabajos-del-“proyecto-memoria-y-verdad”.html','Facebook','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="/index.php/blog-myv/item/109-inai-y-artículo-19-instalarán-los-trabajos-del-“proyecto-memoria-y-verdad”.html">
+            <span aria-hidden="true" class="social_facebook"></span></a>
+    		
+            </li>
+            <li>
+            
+    		<!-- Google +1 Button -->
+    		<a data-toggle="tooltip" data-original-title="Google Plus" onclick="window.open('https://plus.google.com/share?url=/index.php/blog-myv/item/109-inai-y-artículo-19-instalarán-los-trabajos-del-“proyecto-memoria-y-verdad”.html','Google plus','width=585,height=666,left='+(screen.availWidth/2-292)+',top='+(screen.availHeight/2-333)+''); return false;" href="https://plus.google.com/share?url=/index.php/blog-myv/item/109-inai-y-artículo-19-instalarán-los-trabajos-del-“proyecto-memoria-y-verdad”.html">
+            <span aria-hidden="true" class="social_googleplus"></span></a>
+    		
+            </li>
+            <li>
+            
+            <a data-original-title="Pinterest" data-toggle="tooltip" href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());">
+            <span aria-hidden="true" class="social_pinterest"></span></a>
+            </li>
+    			
+    		<li>
+    		<a data-original-title="Linkedin" data-toggle="tooltip" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=/index.php/blog-myv/item/109-inai-y-artículo-19-instalarán-los-trabajos-del-“proyecto-memoria-y-verdad”.html','Linkedin','width=863,height=500,left='+(screen.availWidth/2-431)+',top='+(screen.availHeight/2-250)+''); return false;" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=/index.php/blog-myv/item/109-inai-y-artículo-19-instalarán-los-trabajos-del-“proyecto-memoria-y-verdad”.html">
+            <span aria-hidden="true" class="social_linkedin"></span></a>
+            </li>
+        </ul>
+      </div>
+    </div>
+  
+      
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+
+  
+  
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+</div>
+<!-- End K2 Item Layout -->
+								</div>
+			<div class="wow fadeIn pb-70  ">
+						
+			
+<!-- Start K2 Item Layout -->
+<div class=" Leading">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	                 <div class="post-prev-title">
+            	  <!-- Item title -->
+          
+    	  <h3 class="entry-title">
+    			    
+    	  	    			<a href="/index.php/blog-myv/item/108-justicia,-no-sin-memoria.html">
+    	  		Justicia, no sin memoria    	  	</a>
+    	  	    
+    	  	    	  </h3>
+    	      </div>
+      
+    <div class="post-prev-info">
+                                
+      
+    </div>
+    
+      
+    <div class="post-prev-text">
+          	  <!-- Item introtext -->
+    	  <div class="btcatItemIntroText">
+    	  	<p class="gris">Fecha:mayo 17,2015&nbsp;<strong>Por: Jaime Roch&iacute;n del Rinc&oacute;n (@Jaimerochin)</strong></p>
+<div class="row"><!--inicia row-->
+<div class="col-xs-5 col-sm-3 col-md-2"><img src="/images/_articulos_imagenes/BlogEntrada2_thumb.png" alt="" class="img-responsive" /></div>
+<div class="col-sm-9 col-md-8">
+<p>La protecci&oacute;n de datos no debe ser excusa para impedir que la sociedad mexicana tenga acceso a p&aacute;ginas muy dolorosas de su pasado y pueda al fin liberarse de sus efectos lacerantes, mediante la b&uacute;squeda de la verdad contenida en sus archivos. La protecci&oacute;n de datos personales no debe servir para ocultar a perpetradores o invisibilizar a v&iacute;ctimas de cr&iacute;menes de lesa humanidad.</p>
+</div>
+</div>
+<!--cierra row-->    	  </div>
+    	   
+    </div>
+    <div class="post-prev-more-cont clearfix">
+      <div class="post-prev-more left">
+              </div>
+      <div class="right open" >
+        <a href="/blog-single-sidebar-right.html#comments" class="post-prev-count">
+            
+            <span aria-hidden="true" class="icon_comment_alt"></span>
+                    </a>
+        <a href="http://themeforest.net/user/abcgomel/portfolio?ref=abcgomel" class="post-prev-count">
+        <span aria-hidden="true" class="icon_heart_alt"></span>
+                </a>
+        <a href="#" class="post-prev-count dropdown-toggle" data-toggle="dropdown" aria-expanded="false" >
+          <span aria-hidden="true" class="social_share"></span>
+        </a>
+        <ul class="social-menu dropdown-menu dropdown-menu-right" role="menu">
+                		<!-- Twitter Button -->
+            <li>
+            <a data-toggle="tooltip" data-original-title="Twitter" href="https://twitter.com/share"  data-count="horizontal" >
+    			<span aria-hidden="true" class="social_twitter"></span>	    			</a>
+    			<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+            </li>
+            <li>
+            
+    		<!-- Facebook Button -->
+    	   <a data-toggle="tooltip" data-original-title="Facebook" onclick="window.open('http://www.facebook.com/sharer.php?u=/index.php/blog-myv/item/108-justicia,-no-sin-memoria.html','Facebook','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="/index.php/blog-myv/item/108-justicia,-no-sin-memoria.html">
+            <span aria-hidden="true" class="social_facebook"></span></a>
+    		
+            </li>
+            <li>
+            
+    		<!-- Google +1 Button -->
+    		<a data-toggle="tooltip" data-original-title="Google Plus" onclick="window.open('https://plus.google.com/share?url=/index.php/blog-myv/item/108-justicia,-no-sin-memoria.html','Google plus','width=585,height=666,left='+(screen.availWidth/2-292)+',top='+(screen.availHeight/2-333)+''); return false;" href="https://plus.google.com/share?url=/index.php/blog-myv/item/108-justicia,-no-sin-memoria.html">
+            <span aria-hidden="true" class="social_googleplus"></span></a>
+    		
+            </li>
+            <li>
+            
+            <a data-original-title="Pinterest" data-toggle="tooltip" href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());">
+            <span aria-hidden="true" class="social_pinterest"></span></a>
+            </li>
+    			
+    		<li>
+    		<a data-original-title="Linkedin" data-toggle="tooltip" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=/index.php/blog-myv/item/108-justicia,-no-sin-memoria.html','Linkedin','width=863,height=500,left='+(screen.availWidth/2-431)+',top='+(screen.availHeight/2-250)+''); return false;" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=/index.php/blog-myv/item/108-justicia,-no-sin-memoria.html">
+            <span aria-hidden="true" class="social_linkedin"></span></a>
+            </li>
+        </ul>
+      </div>
+    </div>
+  
+      
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+
+  
+  
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+</div>
+<!-- End K2 Item Layout -->
+								</div>
+			<div class="wow fadeIn pb-70  ">
+						
+			
+<!-- Start K2 Item Layout -->
+<div class=" Leading">
+
+	<!-- Plugins: BeforeDisplay -->
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+	                 <div class="post-prev-title">
+            	  <!-- Item title -->
+          
+    	  <h3 class="entry-title">
+    			    
+    	  	    			<a href="/index.php/blog-myv/item/107-méxico-impunidad-en-violaciones-graves-a-derechos-humanos.html">
+    	  		México: impunidad en violaciones graves a derechos humanos    	  	</a>
+    	  	    
+    	  	    	  </h3>
+    	      </div>
+      
+    <div class="post-prev-info">
+                                
+      
+    </div>
+    
+      
+    <div class="post-prev-text">
+          	  <!-- Item introtext -->
+    	  <div class="btcatItemIntroText">
+    	  	<p class="gris">Fecha: enero 16,2015&nbsp;<strong>Por: Luc&iacute;a Ch&aacute;vez (@LucyWonderful)</strong></p>
+<div class="row"><!--inicia row-->
+<div class="col-xs-5 col-sm-3 col-md-2"><img src="/images/_articulos_imagenes/BlogEntrada1_thumb.png" alt="" class="img-responsive" /></div>
+<div class="col-sm-9 col-md-8">
+<p>A cincuenta a&ntilde;os de distancia, los cr&iacute;menes del pasado no han sido resueltos. Si bien existen investigaciones penales abiertas, &eacute;stas no abarcan la totalidad de los delitos y no hay personas sancionadas por las graves violaciones a derechos humanos. Para el Estado mexicano, el acceso a la justicia ha aparecido como la mayor complicaci&oacute;n para reparar el da&ntilde;o a las v&iacute;ctimas.</p>
+</div>
+</div>
+<!--cierra row-->    	  </div>
+    	   
+    </div>
+    <div class="post-prev-more-cont clearfix">
+      <div class="post-prev-more left">
+              </div>
+      <div class="right open" >
+        <a href="/blog-single-sidebar-right.html#comments" class="post-prev-count">
+            
+            <span aria-hidden="true" class="icon_comment_alt"></span>
+                    </a>
+        <a href="http://themeforest.net/user/abcgomel/portfolio?ref=abcgomel" class="post-prev-count">
+        <span aria-hidden="true" class="icon_heart_alt"></span>
+                </a>
+        <a href="#" class="post-prev-count dropdown-toggle" data-toggle="dropdown" aria-expanded="false" >
+          <span aria-hidden="true" class="social_share"></span>
+        </a>
+        <ul class="social-menu dropdown-menu dropdown-menu-right" role="menu">
+                		<!-- Twitter Button -->
+            <li>
+            <a data-toggle="tooltip" data-original-title="Twitter" href="https://twitter.com/share"  data-count="horizontal" >
+    			<span aria-hidden="true" class="social_twitter"></span>	    			</a>
+    			<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+            </li>
+            <li>
+            
+    		<!-- Facebook Button -->
+    	   <a data-toggle="tooltip" data-original-title="Facebook" onclick="window.open('http://www.facebook.com/sharer.php?u=/index.php/blog-myv/item/107-méxico-impunidad-en-violaciones-graves-a-derechos-humanos.html','Facebook','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="/index.php/blog-myv/item/107-méxico-impunidad-en-violaciones-graves-a-derechos-humanos.html">
+            <span aria-hidden="true" class="social_facebook"></span></a>
+    		
+            </li>
+            <li>
+            
+    		<!-- Google +1 Button -->
+    		<a data-toggle="tooltip" data-original-title="Google Plus" onclick="window.open('https://plus.google.com/share?url=/index.php/blog-myv/item/107-méxico-impunidad-en-violaciones-graves-a-derechos-humanos.html','Google plus','width=585,height=666,left='+(screen.availWidth/2-292)+',top='+(screen.availHeight/2-333)+''); return false;" href="https://plus.google.com/share?url=/index.php/blog-myv/item/107-méxico-impunidad-en-violaciones-graves-a-derechos-humanos.html">
+            <span aria-hidden="true" class="social_googleplus"></span></a>
+    		
+            </li>
+            <li>
+            
+            <a data-original-title="Pinterest" data-toggle="tooltip" href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());">
+            <span aria-hidden="true" class="social_pinterest"></span></a>
+            </li>
+    			
+    		<li>
+    		<a data-original-title="Linkedin" data-toggle="tooltip" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=/index.php/blog-myv/item/107-méxico-impunidad-en-violaciones-graves-a-derechos-humanos.html','Linkedin','width=863,height=500,left='+(screen.availWidth/2-431)+',top='+(screen.availHeight/2-250)+''); return false;" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=/index.php/blog-myv/item/107-méxico-impunidad-en-violaciones-graves-a-derechos-humanos.html">
+            <span aria-hidden="true" class="social_linkedin"></span></a>
+            </li>
+        </ul>
+      </div>
+    </div>
+  
+      
+  <!-- Plugins: AfterDisplayTitle -->
+  
+  <!-- K2 Plugins: K2AfterDisplayTitle -->
+  
+	
+
+	  <!-- Plugins: BeforeDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2BeforeDisplayContent -->
+	  
+	  
+
+	  <!-- Plugins: AfterDisplayContent -->
+	  
+	  <!-- K2 Plugins: K2AfterDisplayContent -->
+	  
+
+  
+  
+
+	
+  <!-- Plugins: AfterDisplay -->
+  
+  <!-- K2 Plugins: K2AfterDisplay -->
+  
+</div>
+<!-- End K2 Item Layout -->
+								</div>
+					
+		
+		
+		
+	</div>
+
+	<!-- Pagination -->
+		<div class="mt-0">
+    <nav class="blog-pag">
+		<ul class="pagination m-0"><li><a title="Inicio" href="/index.php/blog-myv.html?limitstart=0" class="pagenav">Inicio</a></li><li><a title="Anterior" href="/index.php/blog-myv.html?limitstart=0" class="pagenav">Anterior</a></li><li><a title="1" href="/index.php/blog-myv.html?limitstart=0" class="pagenav">1</a></li><li class="active"><a>2</a></li><li class="disabled"><a>Siguiente</a></li><li class="disabled"><a>Final</a></li></ul>		<div class="clr"></div>
+			</nav>
+    </div>
+	
+	</div>
+<!-- End K2 Category Layout -->
+<!-- JoomlaWorks "K2" (v2.6.9) | Learn more about K2 at http://getk2.org -->
+
+
+                </div>
+                                <div class="col-sm-4 col-md-3 ">
+        			
+                </div>
+                            </div>
+            <!-- End Content -->
+            </div>
+            <!-- end main -->  
+        
+                    <!-- FOOTER 2 BLACK -->
+        <footer id="footer3" class="page-section pt-20 pb-10 footer2-black">
+          <div class="container">
+              
+            
+            <div class="row">
+            
+              <div class="col-md-3 col-sm-3 widget">
+                                        <div class=" ">
+
+<div class="custom"  >
+	<div class="logo-footer-cont"><a href="/index.php"> <img src="/images/imgLogoHeader.png" alt="logo" class="logo-footer" /> </a></div>
+<div class="footer-2-text-cont"><address>&nbsp;</address></div></div>
+</div>
+                                    
+              </div>
+              
+              <div class="col-md-3 col-sm-3 widget">
+                                        <div class=" "><ul class="nav navbar-nav  "
+>
+<li class="item-377"><a href="/index.php/mapa-de-sitio.html" >Mapa de Sitio</a></li></ul>
+</div>
+                                  </div>
+              
+              <div class="col-md-3 col-sm-3 widget">
+                                    
+              </div>
+              
+              <div class="col-md-3 col-sm-3 widget">
+                                 
+              </div>
+            </div>   
+                          
+            <div class="footer-2-copy-cont clearfix">       
+                        		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<!-- Social Links -->
+<div class="footer-soc-a right"><a href="https://plus.google.com/u/0/111007519901385641444/about" target="_blank" title="Google+"><i class="fa fa-fa-google-plus fa-google-plus " ></i></a> <a href="https://www.facebook.com/Proyecto-Memoria-y-Verdad-1476009872707809/" target="_blank" title="Facebook"><i class="fa fa-fa-facebook fa-facebook " ></i></a> <a href="https://twitter.com/memoriayverdad" target="_blank" title="Twitter"><i class="fa fa-fa-twitter fa-twitter " ></i></a> <a href="http://www.stumbleupon.com/stumbler/MemoriayVerdad" target="_blank" title="Stumbleupon"><i class="fa fa-fa-stumbleupon fa-stumbleupon " ></i></a> <a href="https://www.flickr.com/photos/138247832%40N05/?rb=1" target="_blank" title="Flickr"><i class="fa fa-fa-flickr fa-flickr " ></i></a> <a href="https://www.youtube.com/user/memoriayverdad" target="_blank" title="You Tube"><i class="fa fa-fa-youtube fa-youtube " ></i></a></div>
+<!-- Copyright -->
+<div class="left">
+<div class="footer-copy">MEMORIA Y VERDAD 2016</div>
+</div></div>
+		</div>
+	
+              
+            </div>     
+                                
+          </div>
+        </footer>
+      <!-- NAV SIDEBAR 
+		<script src="http://www.memoriayverdad.org.mx/templates/haswell/js/jquery.nav.js"></script>
+    <script>
+			
+    </script>
+  -->
+	
+        <!-- BACK TO TOP -->
+    <p id="back-top">
+    <a href="#top" title="Back to top"><span class="icon icon-arrows-up"></span></a>
+    </p>
+    </div><!-- End BG -->	
+</div><!-- End wrap -->	    
+</body>
+</html>

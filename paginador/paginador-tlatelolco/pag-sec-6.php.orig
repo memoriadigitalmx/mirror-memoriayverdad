@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>0001700015206</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Quisiera saber sobre: como fue llevado el caso del movimiento del 68, desde que surgio hasta hoy en dia?
+.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Sin respuesta por falta de seguimiento al requerimiento de información adicional</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_tlatelolco/0001700015206.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700025214</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Solicito consulta directa del expediente AVERIGUACION PREVIA RELATIVA A LOS HECHOS DEL 2 OCT. 68 EN LA PLAZA DE LAS TRES CULTURAS EN TLATELOLCO._PGR/FEMOSPP/002/2002   que lleva como fecha de desclasificación el 27/03/2011 de la Dependencia, PROCURADURÍA GENERAL DE LA REPÚBLICA. Unidad Administrativa: FISCALÍA ESPECIAL PARA MOVIMIENTOS SOCIALES Y POLÍTICOS DEL PASADO.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>El caso fue consignado el 18 de septiembre de 2005 al Juzgado decimo quinto de distrito de procesos penales federales del Distrito Federal, causa penal 78/05. Se sugiere preguntar al Consejo de la Judicatura Federal</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_tlatelolco/0001700025214.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>Expediente_0001700055815</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Se solicita copia en versión  pública del expediente integrado en contra de Luis Echeverría Alvarez por el caso del 2 de octubre de 1968. asimismo se solicita copia en versión pública del expediente integrado que se relaciona con la matanza del 10 de junio de 1971.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La PGR reserva la información por encontrarse inmersa en una averiguación previa (art 14 fracción III de la LFTAIPG).</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_tlatelolco/Expediente_0001700055815.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700072314</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Solicito copia electrónica de la Averiguación Previa relativa a los Hechos del 2 octubre  68 en la Plaza de las Tres Culturas en Tlatelolco PGR/FEMOSPP/002/2002</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se pone a disposición la averiguación, alegando que sólo es posible a través de copias simples (con un costo de $22.419) o certificadas (con un costo de $717,408), pues “es materialmente imposible” reproducirla digitalmente</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_tlatelolco/0001700072314.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_6('1')">Primero</a> <strong>Página 1/1</strong><a onclick="Pagina_6('1')"> Último</a></div></div>
+</body>
+</html>

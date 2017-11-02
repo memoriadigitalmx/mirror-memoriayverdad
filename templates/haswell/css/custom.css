@@ -1,0 +1,45 @@
+/* breadcrumb white */
+.btborder-white{ border-bottom: 1px solid #eee;}
+/* menu */
+#main-menu .navbar .nav  li  a{text-transform: uppercase;}
+#main-menu .navbar .nav li a li a{text-transform: none;}
+.header-1 #main-menu .navbar .nav > li.selected.parent ul > li.selected.parent > a,
+.header-1 #main-menu .navbar .nav li.current.selected > a {
+}
+.header-1 #main-menu .navbar .nav > li.selected.parent > a {
+    border-bottom: 2px solid rgba(45,78,83,1);
+}
+.black-header #main-menu .navbar .nav > li.parent.selected > a {
+    border-bottom: 2px solid rgba(255,255,255,1);
+}
+.fes7-img{
+    background: url(../images/fes7.jpg) 50% 50% no-repeat !important;
+    background-size: cover;
+}
+/**/
+.pt-130-cont {
+    padding-top: 130px;
+}
+.pt-140-cont{
+    padding-top: 140px;
+}
+/* acy mailing */
+.nl-email-input{float: left; width:  auto !important;}
+#mc-embedded-subscribe{float: right;}
+.newsletterform{float: none;}
+/* Flex + revo */
+.tp-caption .flex-top-bot,.tp-caption .flex-bot-top{
+    opacity: 1;
+}
+/* footer */
+.bt-boder-top{
+    border-top: 1px solid #eee;
+}
+#cd-search > div{height: 100%;}
+#mod-finder-searchform .finder{
+    width: 100%;
+    height: 100%;
+}
+#paginador {
+    text-align: center;
+}

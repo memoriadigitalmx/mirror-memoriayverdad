@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>0001700254614</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Sobre las mencionadas 87 carpetas que conforman un acervo documental de la extinta FEMOSPP, que constan de un total de 19,795 fojas, solicito un listado con el nombre que identifica cada una de las 87 carpetas. Es decir, el nombre con el que están guardadas o clasificadas, que pueda estar escrito en la parte frontal de cada carpeta o en la pestaña de cada carpeta. Aclaro que no quiero copia de las carpetas, sólo el nombre que identifica a cada una de ellas.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La Subprocuraduría Especializada en Investigación de Delitos Federales, a través de la Coordinación General de Investigación, informa los nombres de las 87 carpetas</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_halconazo/0001700254614.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700254714</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Listado de los asuntos pendientes que recibió la Coordinación General de Investigación de la PGR (conforme a lo establecido en al artículo primero transitorio del acuerdo A/317/06) y que eran parte del acervo de la extinta Fiscalía Especial Para Movimientos Sociales y Políticos del Pasado. No se requiere acceso a los expedientes, sólo saber de qué tratan o cómo están denominada en el índice.</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Los asuntos pendientes transferidos son las
+averiguaciones previas que en ese momento se encontraban en trámite, que versan sobre hechos probablemente constitutivos de delito, relacionados con movimientos
+políticos del pasado. Se alega que se anexa un listado, pero éste no está disponible.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_halconazo/0001700254714.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700254914</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Copia simple de los siguientes expedientes (carpetas) que se localizan en la Coordinación General de Investigación de la PGR:
+45.MOVIMIENTO ESTUDIANTIL 1968.
+48.MOVIMIENTO ESTUDIANTIL 1968. LIBRO B</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La información requerida está disponible para su consulta directa en la Unidad de Enlace</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_halconazo/0001700254914.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700280714</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Copia simple de las 87 carpetas que conforman un acervo documental de la extinta FEMOSPP, que constan de un total de 19,795 fojas</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La información consta de 19,795 fojas, que en copia simple asciede a un total de $9,897.50. La información que se entregue no contendrá la siguiente información confidencial: A. Datos de testigos. B. Datos de presuntos responsables. C. Datos de personas. D. Datos de víctimas.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_halconazo/0001700280714.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_6('1')">Primero</a> <strong>Página 1/1</strong><a onclick="Pagina_6('1')"> Último</a></div></div>
+</body>
+</html>

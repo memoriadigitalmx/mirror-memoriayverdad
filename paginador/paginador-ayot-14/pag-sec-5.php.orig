@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/jquery.scrolling-tabs.css">
+    <link rel="stylesheet" href="css/st-demo.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,500,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+    <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="js/ajax.js"></script>
+</head>
+<body>
+<div id="contenido" class="col-md-12 mt-30 mb-40">
+    <h4 class="azul">Consulta de Solicitudes de información</h4>
+    <table class="tableline">
+        <tbody>
+        <tr><td><span class='grey'>Folio:</span><p>0001700313514</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>¿Qué avances e información se ha tenido del caso de los normalistas de iguala?
+¿Por qué los estudiantes si solo pedían una buena educación?
+¿Por qué tanta corrupción tanto del gobierno con la delincuencia organizada?
+¿Qué seguridad hay para los estudiantes al querer manifestar nuestras incomodidades?
+¿Qué se va a proceder sobre las autoridades mayores de ese municipio?
+
+</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se informa que se solicitud no cuenta con una expresio?n documental en donde se refleje el ejercicio de las facultades o la actividad que realiza esta Institucio?n. Se requiere que aclare y precise los documentos que solicita.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/0001700313514.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700313014</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Quiero saber si los análisis de ADN que la Procuraduría General de laRepública (PGR) pidió hacer a la Universidad de Innsbruck, Austria, alos restos humanos calcinados hallados en noviembre de este año enCocula, Guerrero, en relación con el caso de los 43 estudiantesnormalistas de Ayotzinapa desaparecidos el 26 de septiembre, tendrán uncosto para la dependencia. Y si en efecto tendrán un costo, quiero sabercuál es, si ya se cubrió o, en su defecto, cuándo se cubrirá. En elmismo sentido, quiero s</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>El costo de análisis de muestras por parte del Institute of Legal Medicine, Innsbruck Medical University asciende a  16,830.00 €. Los gastos por los servicios del Equipo Argentino no son cubiertos por esta Institucio?n ya que actu?a en acuerdo con los familiares de los 43 normalistas como perito independiente de las familias.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/0001700313014.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700299814</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Solicito el acuerdo de cooperación técnica sobre estudiantes de Ayotzinapa firmada entre la Comisión Interamericana de Derechos Humanos  (CIDH) y el Estado Mexicano oficializado el 18 de noviembre de 2014, según el siguiente boletín de prensa de la CIDH: http://www.oas.org/es/cidh/prensa/comunicados/2014/136.asp</strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>La informacio?n que usted solicita no se encuentra dentro del a?mbito de competencia de esta Institucio?n; sin embargo, se advierte que usted requiere informacio?n que pudiera encontrarse dentro de la competencia de la Secretari?a de Relaciones Exteriores </p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/0001700299814.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr><tr><td><span class='grey'>Folio:</span><p>0001700161515</p><span class='grey'>Solicitud:</span><p class='txtflex'><strong>Copia en versión pública de las declaraciones de 36 militares que fueron entrevistados sobre los hechos ocurridos en Iguala los días 26 y 27 de septiembre de 2014. </strong></p><span class='grey'>Respuesta:</span><p class='txtflex'>Se pone a su disposición versión pública de la información requerida, consiste en 202 hojas útiles. Se encuentra disponible previo pago de los costos de reproducción correspondientes.</p><span class='grey'>Autoridad:</span><p>PGR</p></td><td><a href='http://www.memoriayverdad.org.mx/./images/_caso_ayotzinapa_14/0001700161515.zip'><i class='fa fa-download' aria-hidden='true'></i> Descargar</a></td></tr>        </tbody>
+    </table>
+    <div align='center' style='padding: 10px 0 0 0'><a onclick="Pagina_5('1')">Primero</a> <strong>Página 1/26</strong><a onclick="Pagina_5('2')"> Siguiente</a> <a onclick="Pagina_5('26')"> Último</a></div></div>
+</body>
+</html>
